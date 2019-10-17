@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=5w4I9VMAAAAJ"
   twitter          : "s_karumbaiah"
   email            : shamya [at] upenn [dot] edu
-  researchgate     : "https://www.researchgate.net/profile/Shamya_Karumbaiah"
+  researchgate     : #"https://www.researchgate.net/profile/Shamya_Karumbaiah"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shamya"
+  github           : #"shamya"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shamya-karumbaiah/"
+  linkedin         : #"https://www.linkedin.com/in/shamya-karumbaiah/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
