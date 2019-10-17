@@ -19,13 +19,15 @@ Conference Full Papers in Stringently Refereed Proceedings
 * Nye, B. D., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2018) Engaging with the Scenario: Affect and Facial Patterns from a Scenario-Based Intelligent Tutoring System. Proceedings of the 19th International Conference on Artificial Intelligence in Education (AIED). 
 * __Karumbaiah, S.__, Andres, J.M.A.L., Botelho, A.F., Baker, R.S., Ocumpaugh, J. (2018) The Implications of a Subtle Difference in the Calculation of Affect Dynamics. Proceedings of the 26th International Conference on Computers in Education (ICCE). [Nominated for Best Paper Award]
 * __Karumbaiah, S.__, Lizarralde, R., Allessio, D., Woolf, B.P., Arroyo, I., Wixon, N. (2017) Addressing Student Behavior and Affect with Empathy and Growth Mindset. Proceedings of the 10th International Conference on Educational Data Mining (EDM).
- 
+
+
 Conference Short Papers and Poster Papers
 ======
 * __Karumbaiah, S.__, Dabholkar, S., Shim, J., Yoon, S., Chandy, B., Ye, A. (2019) Using Participatory Design to Facilitate In-service Teacher Learning in Computational Thinking. Proceedings of the 13th International Conference on Computer Supported Collaborative Learning (CSCL).
 * __Karumbaiah, S.__, Rahimi, S., Baker, R.S., Shute, V., D’Mello, S.K. (2018) Is Student Frustration in Learning Games More Associated with Game Mechanics or Conceptual Understanding? Proceedings of the 13th International Conference of the Learning Sciences (ICLS).
 * Nye, B., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2017) Analyzing Learner Affect in a Scenario-Based Intelligent Tutoring System. Proceedings of the 18th International Conference on Artificial Intelligence in Education (AIED). 
  
+ 
 Workshop Papers/Presentations 
 ======
 * __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Temporally Rich Features Capture Variable Performance Associated with Elementary Students’ Lower Math Self-concept. To appear in Proceedings of the Workshop on Online Learning and social-Emotional Learning at the 9th International Conference on Learning Analytics and Knowledge (LAK). 
