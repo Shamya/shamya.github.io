@@ -12,3 +12,5 @@ I'm a Ph.D. candidate at [UPenn] (https://home.www.upenn.edu/) working in the [P
 
 
 In summer 2017 I interened as a Data Scientist with [Antonio Nucci] (https://www.linkedin.com/in/antonio-nucci-phd-aa6b70116/) at the Advanced Technologies and AI lab at Cisco, where I worked on [neural network-assisted computer network management] (https://patentimages.storage.googleapis.com/92/dc/e3/87f33ac348b9b2/US20190197397A1.pdf). Between 2011-2015 I worked as a Software Engineer at [Cisco Systems] (https://www.cisco.com/c/en/us/index.html on data-driven problem solving in Service Supply Chain. In 2016 I was a visiting researcher at the [USC Institute for Creative Technologies] (http://ict.usc.edu/) working with Dr. [Benjamin Nye] (https://sites.google.com/site/benjaminnye/) and Dr. [Mark Core] (http://people.ict.usc.edu/~core/) on promoting student engagement in virtual learning environments. 
+
+---
