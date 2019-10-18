@@ -1,8 +1,8 @@
 ---
-title: "Affect Detection"
+title: "Affect Analysis"
 excerpt: "Detect and analyze affect in a scenario-based learning environment using facial expression analysis"
 collection: portfolio
 ---
 
 tbd
-
+both UMass and USC
