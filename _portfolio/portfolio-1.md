@@ -1,7 +1,7 @@
 ---
-title: "Affect Dynamics"
-excerpt: "Study how affect develops and manifests over time in student learning"
+title: "Quitting in Learning Games"
+excerpt: "Understanding and Predicting Quitting in Students Playing a Learning Game"
 collection: portfolio
 ---
 
-student affect dynamnics
+Quit
