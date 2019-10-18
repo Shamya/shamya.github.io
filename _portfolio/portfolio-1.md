@@ -1,6 +1,6 @@
 ---
 title: "Quitting in Learning Games"
-excerpt: "Understanding and predicting quitting in students playing a learning game"
+excerpt: "Understand and predict quitting in students playing a learning game"
 collection: portfolio
 ---
 
