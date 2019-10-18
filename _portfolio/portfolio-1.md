@@ -5,5 +5,3 @@ collection: portfolio
 ---
 
 student affect dynamnics
-
-<> <img src='/images/500x300.png'>
