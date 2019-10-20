@@ -3,7 +3,7 @@ title: "Quitting in Learning Games"
 excerpt: "Understand and predict quitting in students playing Physics Playground – a Physics game for secondary school students"
 collection: portfolio
 ---
-Identifying struggling students in real-time provides a virtual learning environment with an opportunity to intervene meaningfully with supports aimed at improving student learning and engagement. We present a detailed analysis of quit prediction modeling through interaction log data of students playing a learning game called Physics Playground. Next, we study epistemic networks with automatically generated events from five game levels to study how the temporal interconnections between the events are different for students who quit the game and those who did not to understand why students quit a level in the game.
+Identifying struggling students in real-time provides a virtual learning environment with an opportunity to intervene meaningfully with supports aimed at improving student learning and engagement. We present a detailed analysis of quit prediction modeling through interaction log data of students playing a learning game called Physics Playground. Next, we study epistemic networks from five game levels to study how the temporal interconnections between the events are different for students who quit the game and those who did not to understand why students quit a level in the game.
 
 \[[git](https://github.com/Shamya/Quit-Prediction-Physics-Playground.git)] \[[Talk](https://www.youtube.com/watch?v=jpsEdVD5BuU)] \[[Presentation](https://drive.google.com/file/d/1xJsJ4KiPNtEBFn90UNHX5EstPfBYGyWk/view?usp=sharing)]
 
