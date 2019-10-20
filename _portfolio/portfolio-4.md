@@ -1,6 +1,6 @@
 ---
 title: "Affect Detection and Analysis"
-excerpt: "Detect, analyze, and intervene affect in virtual learning environments using facial expression analysis, self reports and interaction"
+excerpt: "Detect, analyze, and intervene affect in virtual learning environments using facial expression, self reports and interaction data"
 collection: portfolio
 ---
 
