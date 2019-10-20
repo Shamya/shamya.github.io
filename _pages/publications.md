@@ -38,7 +38,7 @@ Conference Short Papers and Poster Papers
 * Nye, B., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2017) Analyzing Learner Affect in a Scenario-Based Intelligent Tutoring System. Proceedings of the _18th International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://people.ict.usc.edu/~kgeorgila/publications/nye_aied17.pdf)] \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)]
  
  
-Workshop Papers/Presentations 
+Workshop Papers
 ---
 * __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Temporally Rich Features Capture Variable Performance Associated with Elementary Students’ Lower Math Self-concept. To appear in Proceedings of the Workshop on Online Learning and social-Emotional Learning at the _9th International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/LAK19SEL_paper_3.pdf)] 
 * __Karumbaiah, S.__, Wright, R. T., Durcikova, A., & Jensen, M. L. (2016) Phishing training: A Preliminary Look at the Effects of Different Types of Training. In Proceedings of the _11th Pre-ICIS Workshop on Information Security and Privacy (WISP)_. \[[pdf](https://pdfs.semanticscholar.org/547e/00a1565f759fccf7729f5517b4a120fb30e7.pdf)]
