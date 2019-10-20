@@ -5,7 +5,7 @@ collection: portfolio
 ---
 Identifying struggling students in real-time provides a virtual learning environment with an opportunity to intervene meaningfully with supports aimed at improving student learning and engagement. We present a detailed analysis of quit prediction modeling through interaction log data of students playing a learning game called Physics Playground. Next, we study epistemic networks from five game levels to study how the temporal interconnections between the events are different for students who quit the game and those who did not to understand why students quit a level in the game.
 
-\[[git](https://github.com/Shamya/Quit-Prediction-Physics-Playground.git)] \[[Talk](https://www.youtube.com/watch?v=jpsEdVD5BuU)] \[[Presentation](https://drive.google.com/file/d/1xJsJ4KiPNtEBFn90UNHX5EstPfBYGyWk/view?usp=sharing)]
+\[[git](https://github.com/Shamya/Quit-Prediction-Physics-Playground.git)] \[[presentation](https://drive.google.com/file/d/1xJsJ4KiPNtEBFn90UNHX5EstPfBYGyWk/view?usp=sharing)] \[[talk](https://www.youtube.com/watch?v=jpsEdVD5BuU)]
 
 * __Karumbaiah, S.__, Baker, R.S., Shute, V. (2018) Predicting Quitting in Students Playing a Learning Game. Proceedings of the _11th International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2018_paper_39.pdf)]  **Nominated for Best Paper Award**
 
