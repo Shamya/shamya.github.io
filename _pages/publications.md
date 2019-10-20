@@ -18,7 +18,7 @@ Full List
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=5w4I9VMAAAAJ">my Google Scholar profile</a>.</u>
 
 Conference Full Papers in Stringently Refereed Proceedings 
------
+---
 * __Karumbaiah, S.__, Baker, R.S., Barany, A., Shute, V. (2019) Using Epistemic Networks with Automated Codes to Understand Why Players Quit Levels in a Learning Game. Proceedings of the _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICQE2019.pdf)]
 * __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2019) The Case of Self-Transitions in Affective Dynamics. Proceedings of the _20th International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/AIED2019_paper_55.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] 
 * __Karumbaiah, S.__, Labrum, M., Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. Proceedings of the _11th International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2019_paper31.pdf)]
@@ -32,14 +32,14 @@ Conference Full Papers in Stringently Refereed Proceedings
 
 
 Conference Short Papers and Poster Papers
------
+---
 * __Karumbaiah, S.__, Dabholkar, S., Shim, J., Yoon, S., Chandy, B., Ye, A. (2019) Using Participatory Design to Facilitate In-service Teacher Learning in Computational Thinking. Proceedings of the _13th International Conference on Computer Supported Collaborative Learning (CSCL)_. \[[pdf](https://repository.isls.org/bitstream/1/1682/1/827-828.pdf)]
 * __Karumbaiah, S.__, Rahimi, S., Baker, R.S., Shute, V., D’Mello, S.K. (2018) Is Student Frustration in Learning Games More Associated with Game Mechanics or Conceptual Understanding? Proceedings of the _13th International Conference of the Learning Sciences (ICLS)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICLS-Shamya.pdf)]
 * Nye, B., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2017) Analyzing Learner Affect in a Scenario-Based Intelligent Tutoring System. Proceedings of the _18th International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://people.ict.usc.edu/~kgeorgila/publications/nye_aied17.pdf)] \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)]
  
  
 Workshop Papers/Presentations 
------
+---
 * __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Temporally Rich Features Capture Variable Performance Associated with Elementary Students’ Lower Math Self-concept. To appear in Proceedings of the Workshop on Online Learning and social-Emotional Learning at the _9th International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/LAK19SEL_paper_3.pdf)] 
 * __Karumbaiah, S.__, Wright, R. T., Durcikova, A., & Jensen, M. L. (2016) Phishing training: A Preliminary Look at the Effects of Different Types of Training. In Proceedings of the _11th Pre-ICIS Workshop on Information Security and Privacy (WISP)_. \[[pdf](https://pdfs.semanticscholar.org/547e/00a1565f759fccf7729f5517b4a120fb30e7.pdf)]
 
