@@ -6,7 +6,7 @@ collection: portfolio
 
 Facial expression trackers output activations for facial action units (AUs) that comprise different affects. We compile patterns of AUs seen in related work as well as use factor analysis to search for affect categories implicit in our corpus.
 
-__Data__ - Interaction log, survey   
+__Data__ - Video, interaction log, affect annotations  
 __Methods__ - Facial expression analysis, factor analysis, regression analysis
 
 \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)] \[[Talk](https://vimeo.com/178362096)] 
@@ -15,7 +15,7 @@ __Methods__ - Facial expression analysis, factor analysis, regression analysis
 
 In a randomized controlled study, we investigate the impact of different types of affective messages delivered by pedagogical agents in an online math tutor on student behavior and affect.
 
-__Data__ - Video, interaction log, affect annotations   
+__Data__ - Interaction log, survey    
 __Methods__ - Randomized controlled trails, partial correlations, markov chains
 
 \[[git](https://github.com/rezecib/MathspringDataProcessing.git)]
