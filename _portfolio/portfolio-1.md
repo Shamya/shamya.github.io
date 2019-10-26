@@ -7,8 +7,8 @@ Identifying struggling students in real-time provides a virtual learning environ
 
 \[[git](https://github.com/Shamya/Quit-Prediction-Physics-Playground.git)] \[[presentation](https://drive.google.com/file/d/1xJsJ4KiPNtEBFn90UNHX5EstPfBYGyWk/view?usp=sharing)] \[[talk](https://www.youtube.com/watch?v=jpsEdVD5BuU)]
 
-Data - Interaction log, On-screen sketches, qualitative codes, affect predictions  
-Method - Machine Learning, Epistemic Network Analytics
+__Data__ - Interaction log, On-screen sketches, qualitative codes, affect predictions  
+__Methods__ - Machine Learning, Epistemic Network Analytics
 
 * __Karumbaiah, S.__, Baker, R.S., Shute, V. (2018) Predicting Quitting in Students Playing a Learning Game. Proceedings of the _11th International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2018_paper_39.pdf)]  **Nominated for Best Paper Award**
 
