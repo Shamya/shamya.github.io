@@ -9,6 +9,9 @@ D'Mello and Graesser’s (2012) highly-cited model of affect dynamics proposes a
 
 \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] \[[presentation](https://drive.google.com/file/d/1eTE2-GWx48D4YHk16b-Ias0M8pEQUawT/view?usp=sharing)]
 
+__Data__ - Affect observations
+__Method__ - Meta analysis, transition analysis
+
 * __Karumbaiah, S.__, Andres, J.M.A.L., Botelho, A.F., Baker, R.S., Ocumpaugh, J. (2018) The Implications of a Subtle Difference in the Calculation of Affect Dynamics. Proceedings of the _26th International Conference on Computers in Education (ICCE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/i_paper_36.pdf)] **Nominated for Best Paper Award**
 * __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2019) The Case of Self-Transitions in Affective Dynamics. Proceedings of the _20th International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/AIED2019_paper_55.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] 
 
