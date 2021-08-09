@@ -5,23 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
-Organized by the research area:
-1. [Affect Dynamics](#affect-dynamics)
+Organized by research area:
+1. [Affective Computing in Education](#affective-computing-in-education)
 2. [Bias, Fairness, and Equity](#bias-fairness-and-equity)
-3. [Methodological Improvements](#methodological-improvements)
-4. [Learning Games](#learning-games)
-5. [Affect Detection and Analysis](#affect-detection-and-analysis)
+3. [Methodological Improvements: Statistics, Machine Learning, New Approaches](#methodological-improvements)
+4. [Predictive Modelling: Games, Identity, Affect](#predictive-modelling)
 
+For the full list of papers, please visit <u><a href="https://scholar.google.com/citations?user=5w4I9VMAAAAJ">my Google Scholar page</a>.</u> If the data for a paper is not made public yet, the access is restricted under IRB. 
 
-# Affect Dynamics
+# Affective Computing in Education
 
 # Bias, Fairness, and Equity
 
 # Methodological Improvements
 
-# Learning Games
-
-# Affect Detection and Analysis
+# Predictive Modelling
 
 
 * __Karumbaiah, S.__, Baker, R.S., Shute, V. (2018) Predicting Quitting in Students Playing a Learning Game. Proceedings of the _11th International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2018_paper_39.pdf)] \[[git](https://github.com/Shamya/Quit-Prediction-Physics-Playground.git)]  **Nominated for Best Paper Award**
@@ -34,7 +32,6 @@ Organized by the research area:
 All Papers
 ======
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=5w4I9VMAAAAJ">my Google Scholar profile</a>.</u>
 
 Conference Full Papers in Stringently Refereed Proceedings 
 ---
