@@ -14,14 +14,14 @@ Organized by research area:
 For the full list of papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page. If the data for a paper is not made public yet, the access is restricted under IRB. 
 
 <br/>
-# Affective Computing in Education
+## Affective Computing in Education
 * __Karumbaiah, S.__, Andres, J.M.A.L., Botelho, A.F., Baker, R.S., Ocumpaugh, J. (2018) The Implications of a Subtle Difference in the Calculation of Affect Dynamics. Proceedings of the _26th International Conference on Computers in Education (ICCE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/i_paper_36.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] **Nominated for Best Paper Award**
 
-# Bias, Fairness, and Equity
+## Bias, Fairness, and Equity
 
-# Methodological Improvements
+## Methodological Improvements
 
-# Predictive Modelling
+## Predictive Modelling
 ---
 * __Karumbaiah, S.__, Baker, R.S., Shute, V. (2018) Predicting Quitting in Students Playing a Learning Game. Proceedings of the _11th International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2018_paper_39.pdf)] \[[git](https://github.com/Shamya/Quit-Prediction-Physics-Playground.git)]  **Nominated for Best Paper Award**
 * __Karumbaiah, S.__, Labrum, M., Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. Proceedings of the _11th International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2019_paper31.pdf)]
