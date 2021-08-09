@@ -9,7 +9,7 @@ Organized by research area:
 1. [Affective Computing in Education](#affective-computing-in-education)
 2. [Bias, Fairness, and Equity](#bias-fairness-and-equity)
 3. [Methodological Improvements: Statistics, Machine Learning, New Approaches](#methodological-improvements)
-4. [Predictive Modelling: Games, Identity, Affect](#predictive-modelling)
+4. [Predictive Modelling Applications: Games, Identity, Affect](#predictive-modelling-applications)
 
 For the full list of papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page. If the data for a paper is not made public yet, the access is restricted under IRB. 
 
@@ -21,7 +21,7 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 
 ## Methodological Improvements
 
-## Predictive Modelling
+## Predictive Modelling Applications
 ---
 * __Karumbaiah, S.__, Baker, R.S., Shute, V. (2018) Predicting Quitting in Students Playing a Learning Game. Proceedings of the _11th International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2018_paper_39.pdf)] \[[git](https://github.com/Shamya/Quit-Prediction-Physics-Playground.git)]  **Nominated for Best Paper Award**
 * __Karumbaiah, S.__, Labrum, M., Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. Proceedings of the _11th International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2019_paper31.pdf)]
