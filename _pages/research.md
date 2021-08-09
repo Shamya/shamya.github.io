@@ -11,9 +11,9 @@ Organized by research area:
 3. [Methodological Improvements: Statistics, Machine Learning, New Approaches](#methodological-improvements)
 4. [Predictive Modelling: Games, Identity, Affect](#predictive-modelling)
 
-For the full list of papers, please visit <a href="https://scholar.google.com/citations?user=5w4I9VMAAAAJ">my Google Scholar page</a>. If the data for a paper is not made public yet, the access is restricted under IRB. 
-<br/>
+For the full list of papers, please visit [my Google Scholar page](https://scholar.google.com/citations?user=5w4I9VMAAAAJ). If the data for a paper is not made public yet, the access is restricted under IRB. 
 
+<br/>
 # Affective Computing in Education
 * __Karumbaiah, S.__, Andres, J.M.A.L., Botelho, A.F., Baker, R.S., Ocumpaugh, J. (2018) The Implications of a Subtle Difference in the Calculation of Affect Dynamics. Proceedings of the _26th International Conference on Computers in Education (ICCE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/i_paper_36.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] **Nominated for Best Paper Award**
 
