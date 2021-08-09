@@ -6,18 +6,18 @@ author_profile: true
 ---
 
 Organized by the research area:
-1. [Bias, Fairness, and Equity](#bias-fairness-and-equity)
-2. [Methodological Improvements](#methodological-improvements)
-3. [Affect Dynamics](#affect-dynamics)
+1. [Affect Dynamics](#affect-dynamics)
+2. [Bias, Fairness, and Equity](#bias-fairness-and-equity)
+3. [Methodological Improvements](#methodological-improvements)
 4. [Learning Games](#learning-games)
 5. [Affect Detection and Analysis](#affect-detection-and-analysis)
 
 
+# Affect Dynamics
+
 # Bias, Fairness, and Equity
 
 # Methodological Improvements
-
-# Affect Dynamics
 
 # Learning Games
 
