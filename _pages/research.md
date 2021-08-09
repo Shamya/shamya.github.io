@@ -11,7 +11,7 @@ Organized by research area:
 3. [Methodological Improvements: Statistics, Machine Learning, New Approaches](#methodological-improvements)
 4. [Predictive Modelling: Games, Identity, Affect](#predictive-modelling)
 
-For the full list of papers, please visit <u><a href="https://scholar.google.com/citations?user=5w4I9VMAAAAJ">my Google Scholar page</a>.</u> If the data for a paper is not made public yet, the access is restricted under IRB. 
+For the full list of papers, please visit <a href="https://scholar.google.com/citations?user=5w4I9VMAAAAJ">my Google Scholar page</a>. If the data for a paper is not made public yet, the access is restricted under IRB. 
 <br/>
 
 # Affective Computing in Education
