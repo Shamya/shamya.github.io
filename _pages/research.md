@@ -14,7 +14,7 @@ Organized by research area:
 For the full list of papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page. If the data for a paper is not made public yet, the access is restricted under IRB. 
 ---
 
-# Affective Computing in Education
+## Affective Computing in Education
 ---
 ### Affect Dynamics
 * __Karumbaiah, S.__, Andres, J.M.A.L., Botelho, A.F., Baker, R.S., Ocumpaugh, J. (2018) The Implications of a Subtle Difference in the Calculation of Affect Dynamics. Proceedings of the _26th International Conference on Computers in Education (ICCE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/i_paper_36.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] **Nominated for Best Paper Award**
@@ -22,12 +22,12 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 ### Affect Detection and Analysis
 * __Karumbaiah, S.__, Lizarralde, R., Allessio, D., Woolf, B.P., Arroyo, I., Wixon, N. (2017) Addressing Student Behavior and Affect with Empathy and Growth Mindset. Proceedings of the _10th International Conference on Educational Data Mining (EDM)_. \[[pdf](https://files.eric.ed.gov/fulltext/ED596572.pdf)] \[[git](https://github.com/rezecib/MathspringDataProcessing.git)]
 
-# Bias, Fairness, and Equity
+## Bias, Fairness, and Equity
 ---
 ### Upstream Bias
 * __Karumbaiah, S.__, Labrum, M., Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. Proceedings of the _11th International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2019_paper31.pdf)]
 
-# Methodological Improvements
+## Methodological Improvements
 ---
 ### Transition Analysis
 * __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2019) The Case of Self-Transitions in Affective Dynamics. Proceedings of the _20th International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/AIED2019_paper_55.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] 
@@ -36,7 +36,7 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 ### Active Learning
 
 
-# Predictive Modelling Applications
+## Predictive Modelling Applications
 ---
 ### Learning Gamea
 * __Karumbaiah, S.__, Baker, R.S., Shute, V. (2018) Predicting Quitting in Students Playing a Learning Game. Proceedings of the _11th International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2018_paper_39.pdf)] \[[git](https://github.com/Shamya/Quit-Prediction-Physics-Playground.git)]  **Nominated for Best Paper Award**
