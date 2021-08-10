@@ -27,7 +27,7 @@ My research on upstream bias hypothesizes that the upstream sources (i.e., theor
 
 ### Historical Bias
 Furthermore, I argue that the biases are rooted deeply in the fundamental principles of data and algorithms. By sociohistorically contextualizing three illustrative scenarios, we assert in this paper that historical injustices perpetuated by algorithmic systems in education are the result of the colonial epistemologies that continue to shape them. 
-* __Karumbaiah, S.__, Brooks, J. (2021) How Colonial Continuities Underlie Algorithmic Injustices in Education. _IEEE Research in Equity and Sustained Participation in Engineering, Computing, and Technology (IEEE RESPECT)_.
+* __Karumbaiah, S.__, Brooks, J. (2021) How Colonial Continuities Underlie Algorithmic Injustices in Education. _IEEE Research in Equity and Sustained Participation in Engineering, Computing, and Technology (IEEE RESPECT)_. \[[pdf](http://respect2021.stcbp.org/wp-content/uploads/2021/05/201_Position_Papers_01_paper_73.pdf)]
 
 ---
 
