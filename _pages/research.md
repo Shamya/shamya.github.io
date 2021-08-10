@@ -29,7 +29,7 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 ## Methodological Improvements
 ---
 ### Active Learning
-* __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. **Nominated for BestPaper Award**
+* __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. **Nominated for Best Paper Award**
 
 ### Transition Analysis
 * Matayoshi, J., __Karumbaiah, S__. (2021) Using Marginal Models to Adjust for Statistical Bias in the Analysis of State Transitions. _International Learning Analytics and Knowledge Conference (LAK)_.
@@ -75,5 +75,5 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 * __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Temporally Rich Features Capture Variable Performance Associated with Elementary Students’ Lower Math Self-concept. Workshop on Online Learning and social-Emotional Learning at the _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/LAK19SEL_paper_3.pdf)] 
 
 ### Affect Detection
-* See [Affect Detection and Analysis](#affect-detection-and-analysis]
+* See [Affect Detection and Analysis](#affect-detection-and-analysis)
 
