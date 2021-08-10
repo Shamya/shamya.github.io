@@ -44,7 +44,7 @@ Using this corrected analysis method, we reanalyze ten past affect datasets coll
 * __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J., Andres, J.M.A.L. (2021) A Re-Analysis and Synthesis of Data on Affect Dynamics in Learning. _IEEE Transactions on Affective Computing (IEEE TAC)_. \[[pdf](http://radix.www.upenn.edu/learninganalytics/ryanbaker/AffectDyanmics_IEEETAC_CameraReady.pdf)]
 
 For my work on methodological improvements in affect dynamics research, see: 
-* [Transition Analysis](#transition-analysis), [Epistemic Network Analysis](#epistemic-network-analysis) and [Multiple Comparisons](#multiple-comparisons).
+* [Transition Analysis](#transition-and-sequence-analysis), [Epistemic Network Analysis](#epistemic-network-analysis) and [Multiple Comparisons](#multiple-comparisons).
 
 ### Affect Detection 
 Student affect in adaptive systems has been shown to correlate with a range of important educational constructs. Several research studies in the past decade have focused on building good quality affect detectors using physical and physiological sensors and interaction log data. I have collaborated with multiple teams to design and develop algorithms and software for automatic affect detection in students interacting with diverse learning systems.
@@ -64,20 +64,23 @@ In addition to automated detection, I have analyzed student affect data to bette
 
 ## Methodological Improvements
 ---
+A part of my research also focuses on methodological innovations in statistics and machine learning. Most of this work is inspired by the limitations I encountered in using existing methods to conduct my primary research with education data. 
+
 ### Active Learning
 * __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. **Nominated for Best Paper Award**
 
-### Transition Analysis
-* Matayoshi, J., __Karumbaiah, S__. (2021) Using Marginal Models to Adjust for Statistical Bias in the Analysis of State Transitions. _International Learning Analytics and Knowledge Conference (LAK)_.
-* Matayoshi, J., __Karumbaiah, S.__ (2020) Adjusting the L Statistic when Self-Transitions are Excluded in Affective Dynamics. _Journal of Educational Data Mining (JEDM)_.
+### Transition and Sequence Analysis
 * __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2019) The Case of Self-Transitions in Affective Dynamics. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/AIED2019_paper_55.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] 
+* Matayoshi, J., __Karumbaiah, S__. (2021) Using Marginal Models to Adjust for Statistical Bias in the Analysis of State Transitions. _International Learning Analytics and Knowledge Conference (LAK)_. \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3448139.3448182?casa_token=cnlr7hWPvQsAAAAA:HyO8oSKneiTFL_egMyWSal8trStAOpxSKznFZfsuiOdg_BycI8uIS2bh22EqygzTjhK1z3yop75REg)] \[[git](https://github.com/jmatayoshi/sequence-analysis)]
+* Matayoshi, J., __Karumbaiah, S.__ (2020) Adjusting the L Statistic when Self-Transitions are Excluded in Affective Dynamics. _Journal of Educational Data Mining (JEDM)_. \[[pdf](https://jedm.educationaldatamining.org/index.php/JEDM/article/view/478/125)] \[[git](https://github.com/jmatayoshi/affect-transitions)]
+
 
 ### Epistemic Network Analysis
-* __Karumbaiah, S.__, Baker, R.S. (2020) Studying Affect Dynamics using Epistemic Networks. _International Conference on Quantitative Ethnography (ICQE)_. **Nominated for Best Paper Award**
+* __Karumbaiah, S.__, Baker, R.S. (2020) Studying Affect Dynamics using Epistemic Networks. _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://radix.www.upenn.edu/learninganalytics/ryanbaker/AffectDynamicsENA_ICQE_CameraReady.pdf)] \ **Nominated for Best Paper Award**
 * __Karumbaiah, S.__, Baker, R.S., Barany, A., Shute, V. (2019) Using Epistemic Networks with Automated Codes to Understand Why Players Quit Levels in a Learning Game. _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICQE2019.pdf)]
 
 ### Multiple Comparisons
-* Matayoshi, J., __Karumbaiah, S.__ (2021) Investigating the Validity of Methods Used to Adjust for Multiple Comparisons in Educational Data Mining. _International Conference on Educational Data Mining (EDM)_.
+* Matayoshi, J., __Karumbaiah, S.__ (2021) Investigating the Validity of Methods Used to Adjust for Multiple Comparisons in Educational Data Mining. _International Conference on Educational Data Mining (EDM)_. \[[pdf](https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_10.pdf)] \[[git](https://github.com/jmatayoshi/multiple-comparisons)]
 
 ---
 
