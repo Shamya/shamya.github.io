@@ -66,7 +66,7 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 
 ## Predictive Modelling Applications
 ---
-### Learning Gamea
+### Learning Games
 * __Karumbaiah, S.__, Baker, R.S., Shute, V. (2018) Predicting Quitting in Students Playing a Learning Game. _International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2018_paper_39.pdf)] \[[git](https://github.com/Shamya/Quit-Prediction-Physics-Playground.git)]  **Nominated for Best Paper Award**
 * __Karumbaiah, S.__, Baker, R.S., Barany, A., Shute, V. (2019) Using Epistemic Networks with Automated Codes to Understand Why Players Quit Levels in a Learning Game. _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICQE2019.pdf)]
 
@@ -76,5 +76,5 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 * __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Temporally Rich Features Capture Variable Performance Associated with Elementary Students’ Lower Math Self-concept. Workshop on Online Learning and social-Emotional Learning at the _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/LAK19SEL_paper_3.pdf)] 
 
 ### Affect Detection
-* See [Affect Detection and Analysis](#affect-detection-and-analysis)
+* See [Affect Detection](#affect-detection)
 
