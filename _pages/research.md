@@ -17,13 +17,17 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 
 ## Bias, Fairness, and Equity
 ---
+Adaptive systems in education need to ensure that their pedagogical decisions meet the needs of all students for an equitable outcome. Recent research highlights how these systems encode societal biases leading to discriminatory behaviors towards specific student subpopulations. However, the focus has mostly been on investigating bias in predictive modeling, particularly its downstream stages like model development and evaluation.
+
 ### Upstream Bias
-* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2021) Context Matters: Differing Implications of Motivation and Help-Seeking in Educational Technology. _International Journal of Artificial Intelligence in Education (IJAIED)_.
-* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J., Andres, J.M.A.L. (2021) A Re-Analysis and Synthesis of Data on Affect Dynamics in Learning. _IEEE Transactions on Affective Computing (IEEE TAC)_.
-* __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. **Nominated for Best Paper Award**
-* __Karumbaiah, S.__, Labrum, M., Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. _International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2019_paper31.pdf)]
+My research on upstream bias hypothesizes that the upstream sources (i.e., theory, design, training data collection method) in the development of adaptive systems also contribute to the bias in these systems, highlighting the need for a nuanced approach to conducting fairness research. By empirically analyzing student data collected from various virtual learning environments, I investigate demographic disparities in three cases representative of the aspects that shape technological advancements in education: 1) non-conformance of data to a widely-accepted _theoretical model_ of emotion, 2) differing implications of _technology design_ on student outcomes, and 3) varying effectiveness of _methodological improvements_ in annotated data collection.
+* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2021) Context Matters: Differing Implications of Motivation and Help-Seeking in Educational Technology. _International Journal of Artificial Intelligence in Education (IJAIED)_. \[[git](https://github.com/Shamya/RMDemogFairness)]
+* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J., Andres, J.M.A.L. (2021) A Re-Analysis and Synthesis of Data on Affect Dynamics in Learning. _IEEE Transactions on Affective Computing (IEEE TAC)_. \[[pdf](http://radix.www.upenn.edu/learninganalytics/ryanbaker/AffectDyanmics_IEEETAC_CameraReady.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)]
+* __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. \[[pdf](https://people.umass.edu/~andrewlan/papers/21lak-warmstart.pdf)] **Nominated for Best Paper Award**
 
 ### Historical Bias
+In this paper, we argue that the historical injustices perpetuated by these systems are the result of the colonial ways of
+knowing (and being) that continue to shape them. Using three illustrative scenarios, we sociohistorically contextualize some of the fundamental principles of data and algorithms to reveal that they are still rooted in coloniality. 
 * __Karumbaiah, S.__, Brooks, J. (2021) How Colonial Continuities Underlie Algorithmic Injustices in Education. _IEEE Research in Equity and Sustained Participation in Engineering, Computing, and Technology (IEEE RESPECT)_.
 
 
@@ -78,3 +82,6 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 ### Affect Detection
 * See [Affect Detection](#affect-detection)
 
+
+
+* __Karumbaiah, S.__, Labrum, M., Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. _International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2019_paper31.pdf)]
