@@ -13,7 +13,7 @@ Organized by research area:
 
 For the full list of papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page. If the data for a paper is not made public yet, the access is restricted under IRB. 
 ---
-<br/>
+
 # Affective Computing in Education
 ---
 ### Affect Dynamics
@@ -34,8 +34,6 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 * __Karumbaiah, S.__, Baker, R.S., Barany, A., Shute, V. (2019) Using Epistemic Networks with Automated Codes to Understand Why Players Quit Levels in a Learning Game. Proceedings of the _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICQE2019.pdf)]
 
 ### Active Learning
-
-
 
 
 # Predictive Modelling Applications
