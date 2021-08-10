@@ -5,13 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-Organized by research area:
+This page is organized by research area:
 1. [Bias, Fairness, and Equity](#bias-fairness-and-equity)
 2. [Affective Computing in Education](#affective-computing-in-education)
 3. [Methodological Improvements: Statistics, Machine Learning, New Approaches](#methodological-improvements)
 4. [Predictive Modelling Applications: Games, Identity, Affect](#predictive-modelling-applications)
 
-For the full list of papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page. If the data for a paper is not made public yet, the access is restricted under IRB. 
+For the full list of papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page. If the data for a paper is not made public yet, the access is restricted under IRB - reach out to discuss options.
 
 ---
 
