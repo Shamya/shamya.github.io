@@ -7,9 +7,9 @@ author_profile: true
 
 Organized by research area:
 1. [Bias, Fairness, and Equity](#bias-fairness-and-equity)
+2. [Affective Computing in Education](#affective-computing-in-education)
 3. [Methodological Improvements: Statistics, Machine Learning, New Approaches](#methodological-improvements)
-4. [Affective Computing in Education](#affective-computing-in-education)
-5. [Predictive Modelling Applications: Games, Identity, Affect](#predictive-modelling-applications)
+4. [Predictive Modelling Applications: Games, Identity, Affect](#predictive-modelling-applications)
 
 For the full list of papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page. If the data for a paper is not made public yet, the access is restricted under IRB. 
 
@@ -19,29 +19,11 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 ---
 ### Upstream Bias
 * __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2021) Context Matters: Differing Implications of Motivation and Help-Seeking in Educational Technology. _International Journal of Artificial Intelligence in Education (IJAIED)_.
-* __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. **Nominated for BestPaper Award**
+* __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. **Nominated for Best Paper Award**
 * __Karumbaiah, S.__, Labrum, M., Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. _International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2019_paper31.pdf)]
 
 ### Historical Bias
 * __Karumbaiah, S.__, Brooks, J. (2021) How Colonial Continuities Underlie Algorithmic Injustices in Education. _IEEE Research in Equity and Sustained Participation in Engineering, Computing, and Technology (IEEE RESPECT)_.
-
-
-## Methodological Improvements
----
-### Active Learning
-* __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. **Nominated for Best Paper Award**
-
-### Transition Analysis
-* Matayoshi, J., __Karumbaiah, S__. (2021) Using Marginal Models to Adjust for Statistical Bias in the Analysis of State Transitions. _International Learning Analytics and Knowledge Conference (LAK)_.
-* Matayoshi, J., __Karumbaiah, S.__ (2020) Adjusting the L Statistic when Self-Transitions are Excluded in Affective Dynamics. _Journal of Educational Data Mining (JEDM)_.
-* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2019) The Case of Self-Transitions in Affective Dynamics. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/AIED2019_paper_55.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] 
-
-### Epistemic Network Analysis
-* __Karumbaiah, S.__, Baker, R.S. (2020) Studying Affect Dynamics using Epistemic Networks. _International Conference on Quantitative Ethnography (ICQE)_. **Nominated for Best Paper Award**
-* __Karumbaiah, S.__, Baker, R.S., Barany, A., Shute, V. (2019) Using Epistemic Networks with Automated Codes to Understand Why Players Quit Levels in a Learning Game. _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICQE2019.pdf)]
-
-### Multiple Comparision
-* Matayoshi, J., __Karumbaiah, S.__ (2021) Investigating the Validity of Methods Used to Adjust for Multiple Comparisons in Educational Data Mining. _International Conference on Educational Data Mining (EDM)_.
 
 
 ## Affective Computing in Education
@@ -61,6 +43,24 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 * Ocumpaugh, J., Baker, R.S., __Karumbaiah, S.__, Crossley, S.A., Labrum, M., (2020) Affective Sequences and Student Actions Within Reasoning Mind. _International Conference on Artificial Intelligence in Education (AIED)_.
 * Andres, J.M.A.L., Ocumpaugh, J., Baker, R., Slater, S., Paquette, L., __Karumbaiah, S.__, Jiang, Y., Bosch, N., Munshi, A., Moore, A., Biswas, G. (2019) Affect Sequences and Learning in Betty’s Brain. _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/LAK19BettysBrainAffect.pdf)]
 * __Karumbaiah, S.__, Rahimi, S., Baker, R.S., Shute, V., D’Mello, S.K. (2018) Is Student Frustration in Learning Games More Associated with Game Mechanics or Conceptual Understanding? _International Conference of the Learning Sciences (ICLS)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICLS-Shamya.pdf)]
+
+
+## Methodological Improvements
+---
+### Active Learning
+* __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. **Nominated for Best Paper Award**
+
+### Transition Analysis
+* Matayoshi, J., __Karumbaiah, S__. (2021) Using Marginal Models to Adjust for Statistical Bias in the Analysis of State Transitions. _International Learning Analytics and Knowledge Conference (LAK)_.
+* Matayoshi, J., __Karumbaiah, S.__ (2020) Adjusting the L Statistic when Self-Transitions are Excluded in Affective Dynamics. _Journal of Educational Data Mining (JEDM)_.
+* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2019) The Case of Self-Transitions in Affective Dynamics. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/AIED2019_paper_55.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] 
+
+### Epistemic Network Analysis
+* __Karumbaiah, S.__, Baker, R.S. (2020) Studying Affect Dynamics using Epistemic Networks. _International Conference on Quantitative Ethnography (ICQE)_. **Nominated for Best Paper Award**
+* __Karumbaiah, S.__, Baker, R.S., Barany, A., Shute, V. (2019) Using Epistemic Networks with Automated Codes to Understand Why Players Quit Levels in a Learning Game. _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICQE2019.pdf)]
+
+### Multiple Comparision
+* Matayoshi, J., __Karumbaiah, S.__ (2021) Investigating the Validity of Methods Used to Adjust for Multiple Comparisons in Educational Data Mining. _International Conference on Educational Data Mining (EDM)_.
 
 
 ## Predictive Modelling Applications
