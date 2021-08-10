@@ -43,7 +43,7 @@ Next, we present mathematical evidence that several past studies applied the tra
 Using this corrected analysis method, we reanalyze ten past affect datasets collected in diverse contexts and synthesize the results, determining that the findings do not match the most popular theoretical model of affect dynamics. Instead, our results highlight the need to focus on cultural factors in future affect dynamics research
 * __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J., Andres, J.M.A.L. (2021) A Re-Analysis and Synthesis of Data on Affect Dynamics in Learning. _IEEE Transactions on Affective Computing (IEEE TAC)_.
 
-For methodological improvements proposed for affect dynamics research, navigate to 
+For my work on methodological improvements in affect dynamics research, navigate to 
 * [Transition Analysis](#transition-analysis), [Epistemic Network Analysis](#epistemic-network-analysis) and [Multiple Comparisons](#multiple-comparisons).
 
 ### Affect Detection 
@@ -87,9 +87,10 @@ For methodological improvements proposed for affect dynamics research, navigate 
 
 ### Math Identity and Success 
 * Crossley, S.A., __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2020) Predicting Math Identity through Language and Click-stream Patterns in a Blended Learning Mathematics Program for Elementary Students. _Journal of Learning Analytics (JLA)_.
-* Crossley, S.A., __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Predicting Math Success in an Online Tutoring System Using Language Data and Click-stream Variables: A longitudinal analysis. _Conference on Language, Data and Knowledge (LDK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/OASIcs-LDK-2019-25.pdf)]
-* __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Temporally Rich Features Capture Variable Performance Associated with Elementary Students’ Lower Math Self-concept. Workshop on Online Learning and social-Emotional Learning at the _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/LAK19SEL_paper_3.pdf)] 
 * __Karumbaiah, S.__, Labrum, M., Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. _International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2019_paper31.pdf)]
+* __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Temporally Rich Features Capture Variable Performance Associated with Elementary Students’ Lower Math Self-concept. Workshop on Online Learning and social-Emotional Learning at the _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/LAK19SEL_paper_3.pdf)] 
+* Crossley, S.A., __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Predicting Math Success in an Online Tutoring System Using Language Data and Click-stream Variables: A longitudinal analysis. _Conference on Language, Data and Knowledge (LDK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/OASIcs-LDK-2019-25.pdf)]
+
 
 ### Affect Detection
 * See [Affect Detection](#affect-detection)
