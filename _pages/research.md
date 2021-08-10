@@ -47,10 +47,13 @@ For my work on methodological improvements in affect dynamics research, navigate
 * [Transition Analysis](#transition-analysis), [Epistemic Network Analysis](#epistemic-network-analysis) and [Multiple Comparisons](#multiple-comparisons).
 
 ### Affect Detection 
-
-* Lan, A., Botelho, A., __Karumbaiah, S.__, Baker, R.S., Heffernan, N. (2020) Accurate and Interpretable Sensor-free Affect Detectors via Monotonic Neural Networks. _International Conference on Learning Analytics and Knowledge (LAK)_.
+Student affect in adaptive systems has been show to correlate with a range of important educational constructs. Several
+research studies in the past decade have focused on building good quality affect detectors using physical and physiological sensors, and interaction log data. I have collaborated with multiple teams to design and develop algorithms and software for automatic affect detection in students using diverse learning systems.
 * Nye, B., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2017) Analyzing Learner Affect in a Scenario-Based Intelligent Tutoring System. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://people.ict.usc.edu/~kgeorgila/publications/nye_aied17.pdf)] \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)]
-* Nye, B. D., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2018) Engaging with the Scenario: Affect and Facial Patterns from a Scenario-Based Intelligent Tutoring System. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://people.ict.usc.edu/~kgeorgila/publications/nye_aied18.pdf)] \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)]
+* Nye, B. D., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2018) Engaging with the Scenario: Affect and Facial Patterns from a Scenario-Based Intelligent Tutoring System. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf (http://people.ict.usc.edu/~kgeorgila/publications/nye_aied18.pdf)] \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)]
+* Andres, J.M.A.L., Ocumpaugh, J., Baker, R., Slater, S., Paquette, L., __Karumbaiah, S.__, Jiang, Y.,
+Bosch, N., Munshi, A., Moore, A., Biswas, G. (2019) Affect Sequences and Learning in Betty’s Brain. _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3303772.3303807)]
+* Lan, A., Botelho, A., __Karumbaiah, S.__, Baker, R.S., Heffernan, N. (2020) Accurate and Interpretable Sensor-free Affect Detectors via Monotonic Neural Networks. _International Conference on Learning Analytics and Knowledge (LAK)_.
 
 ### Affect Analysis
 
