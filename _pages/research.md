@@ -26,10 +26,10 @@ My research on upstream bias hypothesizes that the upstream sources (i.e., theor
 * __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. \[[pdf](https://people.umass.edu/~andrewlan/papers/21lak-warmstart.pdf)] **Nominated for Best Paper Award**
 
 ### Historical Bias
-In this paper, we argue that the historical injustices perpetuated by these systems are the result of the colonial ways of
-knowing (and being) that continue to shape them. Using three illustrative scenarios, we sociohistorically contextualize some of the fundamental principles of data and algorithms to reveal that they are still rooted in coloniality. 
+Furthermore, we argue that the historical injustices perpetuated by algorithmic systems in education are the result of the colonial ways of knowing (and being) that continue to shape them. Using three illustrative scenarios, we sociohistorically contextualize some of the fundamental principles of data and algorithms to reveal that they are still rooted in coloniality. 
 * __Karumbaiah, S.__, Brooks, J. (2021) How Colonial Continuities Underlie Algorithmic Injustices in Education. _IEEE Research in Equity and Sustained Participation in Engineering, Computing, and Technology (IEEE RESPECT)_.
 
+======
 
 ## Affective Computing in Education
 ---
