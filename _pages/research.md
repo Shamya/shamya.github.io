@@ -58,7 +58,6 @@ For the full list of papers, please visit my [Google Scholar](https://scholar.go
 
 * Andres, J.M.A.L., Ocumpaugh, J., Baker, R., Slater, S., Paquette, L., __Karumbaiah, S.__, Jiang, Y., Bosch, N., Munshi, A., Moore, A., Biswas, G. (2019) Affect Sequences and Learning in Betty’s Brain. Proceedings of the _9th International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/LAK19BettysBrainAffect.pdf)]
 
-* __Karumbaiah, S.__, Dabholkar, S., Shim, J., Yoon, S., Chandy, B., Ye, A. (2019) Using Participatory Design to Facilitate In-service Teacher Learning in Computational Thinking. Proceedings of the _13th International Conference on Computer Supported Collaborative Learning (CSCL)_. \[[pdf](https://repository.isls.org/bitstream/1/1682/1/827-828.pdf)]
 * __Karumbaiah, S.__, Rahimi, S., Baker, R.S., Shute, V., D’Mello, S.K. (2018) Is Student Frustration in Learning Games More Associated with Game Mechanics or Conceptual Understanding? Proceedings of the _13th International Conference of the Learning Sciences (ICLS)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICLS-Shamya.pdf)]
 
 * __Karumbaiah, S.__, Wright, R. T., Durcikova, A., & Jensen, M. L. (2016) Phishing training: A Preliminary Look at the Effects of Different Types of Training. In Proceedings of the _11th Pre-ICIS Workshop on Information Security and Privacy (WISP)_. \[[pdf](https://pdfs.semanticscholar.org/547e/00a1565f759fccf7729f5517b4a120fb30e7.pdf)]
