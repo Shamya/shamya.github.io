@@ -29,7 +29,7 @@ My research on upstream bias hypothesizes that the upstream sources (i.e., theor
 Furthermore, we argue that the historical injustices perpetuated by algorithmic systems in education are the result of the colonial ways of knowing (and being) that continue to shape them. Using three illustrative scenarios, we sociohistorically contextualize some of the fundamental principles of data and algorithms to reveal that they are still rooted in coloniality. 
 * __Karumbaiah, S.__, Brooks, J. (2021) How Colonial Continuities Underlie Algorithmic Injustices in Education. _IEEE Research in Equity and Sustained Participation in Engineering, Computing, and Technology (IEEE RESPECT)_.
 
-======
+---
 
 ## Affective Computing in Education
 ---
