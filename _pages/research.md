@@ -8,7 +8,7 @@ author_profile: true
 This page is organized by research area:
 1. [Bias, Fairness, and Equity](#bias-fairness-and-equity)
 2. [Affective Computing in Education](#affective-computing-in-education)
-3. [Methodological Improvements: Statistics, Machine Learning, New Approaches](#methodological-improvements)
+3. [Methodological Improvements: Statistics, Machine Learning](#methodological-improvements)
 4. [Predictive Modelling Applications: Games, Identity, Affect](#predictive-modelling-applications)
 
 For the full list of papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page. If the data for a paper is not made public yet, the access is restricted under IRB - reach out to discuss options.
@@ -68,11 +68,12 @@ Part of my research also focuses on methodological innovations in statistics and
 
 ### Transition and Sequence Analysis
 * __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2019) The Case of Self-Transitions in Affective Dynamics. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/AIED2019_paper_55.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] 
+* __Karumbaiah, S.__, Baker, R.S. (2020) Studying Affect Dynamics using Epistemic Networks. _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://radix.www.upenn.edu/learninganalytics/ryanbaker/AffectDynamicsENA_ICQE_CameraReady.pdf)] **Nominated for Best Paper Award**
 * Matayoshi, J., __Karumbaiah, S__. (2021) Using Marginal Models to Adjust for Statistical Bias in the Analysis of State Transitions. _International Learning Analytics and Knowledge Conference (LAK)_. \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3448139.3448182?casa_token=cnlr7hWPvQsAAAAA:HyO8oSKneiTFL_egMyWSal8trStAOpxSKznFZfsuiOdg_BycI8uIS2bh22EqygzTjhK1z3yop75REg)] \[[git](https://github.com/jmatayoshi/sequence-analysis)]
 * Matayoshi, J., __Karumbaiah, S.__ (2020) Adjusting the L Statistic when Self-Transitions are Excluded in Affective Dynamics. _Journal of Educational Data Mining (JEDM)_. \[[pdf](https://jedm.educationaldatamining.org/index.php/JEDM/article/view/478/125)] \[[git](https://github.com/jmatayoshi/affect-transitions)]
 
 ### Epistemic Network Analysis
-* __Karumbaiah, S.__, Baker, R.S. (2020) Studying Affect Dynamics using Epistemic Networks. _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://radix.www.upenn.edu/learninganalytics/ryanbaker/AffectDynamicsENA_ICQE_CameraReady.pdf)] \ **Nominated for Best Paper Award**
+* __Karumbaiah, S.__, Baker, R.S. (2020) Studying Affect Dynamics using Epistemic Networks. _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://radix.www.upenn.edu/learninganalytics/ryanbaker/AffectDynamicsENA_ICQE_CameraReady.pdf)] **Nominated for Best Paper Award**
 * __Karumbaiah, S.__, Baker, R.S., Barany, A., Shute, V. (2019) Using Epistemic Networks with Automated Codes to Understand Why Players Quit Levels in a Learning Game. _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICQE2019.pdf)]
 
 ### Active Learning
