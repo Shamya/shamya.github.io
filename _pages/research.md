@@ -36,10 +36,13 @@ Furthermore, we argue that the historical injustices perpetuated by algorithmic 
 ### Affect Dynamics
 Affect dynamics, the study of how affect develops and manifests over time, has become a popular area of research in affective computing for learning. In this paper, we first provide a detailed analysis of prior affect dynamics studies, elaborating both their findings and the contextual and methodological differences between these studies. We then address methodological concerns that have not been previously addressed in the literature, discussing how various edge cases should be treated.
 * __Karumbaiah, S.__, Andres, J.M.A.L., Botelho, A.F., Baker, R.S., Ocumpaugh, J. (2018) The Implications of a Subtle Difference in the Calculation of Affect Dynamics. _International Conference on Computers in Education (ICCE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/i_paper_36.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] **Nominated for Best Paper Award**
+
 Next, we present mathematical evidence that several past studies applied the transition metric (L) incorrectly - leading to invalid conclusions of statistical significance - and provide a corrected method.
 * __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2019) The Case of Self-Transitions in Affective Dynamics. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/AIED2019_paper_55.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] 
+
 Using this corrected analysis method, we reanalyze ten past affect datasets collected in diverse contexts and synthesize the results, determining that the findings do not match the most popular theoretical model of affect dynamics. Instead, our results highlight the need to focus on cultural factors in future affect dynamics research
 * __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J., Andres, J.M.A.L. (2021) A Re-Analysis and Synthesis of Data on Affect Dynamics in Learning. _IEEE Transactions on Affective Computing (IEEE TAC)_.
+
 For methodological improvements proposed for affect dynamics research, see 
 * [Transition Analysis](#transition-analysis), [Epistemic Network Analysis](#epistemic-network-analysis) and [Multiple Comparisons](#multiple-comparisons).
 
