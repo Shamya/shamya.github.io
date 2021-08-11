@@ -64,7 +64,7 @@ In addition, I have analyzed student affect data to better understand its role i
 
 ## Methodological Improvements
 ---
-Part of my research also focuses on methodological innovations in statistics and machine learning. Most of this work is inspired by the challenges (aka interesting opportunities) I encountered in using existing methods to conduct my primary research with education data. 
+Part of my research also focuses on methodological innovations in statistics and machine learning. Most of this work is inspired by the challenges I encountered in using existing methods to conduct my primary research with education data. 
 
 ### Transition and Sequence Analysis
 * __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2019) The Case of Self-Transitions in Affective Dynamics. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/AIED2019_paper_55.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] 
