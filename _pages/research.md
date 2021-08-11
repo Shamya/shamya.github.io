@@ -47,9 +47,9 @@ For my work on methodological improvements in affect dynamics research, see:
 * [Transition Analysis](#transition-and-sequence-analysis) and [Multiple Comparisons](#multiple-comparisons).
 
 ### Affect Detection 
-Student affect in adaptive systems has been shown to correlate with a range of important educational constructs. Several research studies in the past decade have focused on building good quality affect detectors using physical and physiological sensors and interaction log data. I have collaborated with multiple teams to design and develop algorithms and software for automatic affect detection in students interacting with diverse learning systems.
-* Nye, B., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2017) Analyzing Learner Affect in a Scenario-Based Intelligent Tutoring System. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://people.ict.usc.edu/~kgeorgila/publications/nye_aied17.pdf)] \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)]
+Student affect in adaptive systems has been shown to correlate with a range of important educational constructs. Several research studies in the past decade have focused on building good quality affect detectors using physical and physiological sensors and interaction log data. I have collaborated with multiple teams to design and develop algorithms and software for automated affect detection in students interacting with diverse learning systems.
 * Nye, B. D., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2018) Engaging with the Scenario: Affect and Facial Patterns from a Scenario-Based Intelligent Tutoring System. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://people.ict.usc.edu/~kgeorgila/publications/nye_aied18.pdf)] \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)]
+* Nye, B., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2017) Analyzing Learner Affect in a Scenario-Based Intelligent Tutoring System. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://people.ict.usc.edu/~kgeorgila/publications/nye_aied17.pdf)] \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)]
 * Andres, J.M.A.L., Ocumpaugh, J., Baker, R., Slater, S., Paquette, L., __Karumbaiah, S.__, Jiang, Y.,
 Bosch, N., Munshi, A., Moore, A., Biswas, G. (2019) Affect Sequences and Learning in Betty’s Brain. _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3303772.3303807)]
 * Lan, A., Botelho, A., __Karumbaiah, S.__, Baker, R.S., Heffernan, N. (2020) Accurate and Interpretable Sensor-free Affect Detectors via Monotonic Neural Networks. _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](https://par.nsf.gov/servlets/purl/10191713)]
@@ -72,7 +72,7 @@ Part of my research also focuses on methodological innovations in statistics and
 * Matayoshi, J., __Karumbaiah, S__. (2021) Using Marginal Models to Adjust for Statistical Bias in the Analysis of State Transitions. _International Learning Analytics and Knowledge Conference (LAK)_. \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3448139.3448182?casa_token=cnlr7hWPvQsAAAAA:HyO8oSKneiTFL_egMyWSal8trStAOpxSKznFZfsuiOdg_BycI8uIS2bh22EqygzTjhK1z3yop75REg)] \[[git](https://github.com/jmatayoshi/sequence-analysis)]
 * Matayoshi, J., __Karumbaiah, S.__ (2020) Adjusting the L Statistic when Self-Transitions are Excluded in Affective Dynamics. _Journal of Educational Data Mining (JEDM)_. \[[pdf](https://jedm.educationaldatamining.org/index.php/JEDM/article/view/478/125)] \[[git](https://github.com/jmatayoshi/affect-transitions)]
 
-### Active Learning
+### Active Machine Learning
 * __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. \[[pdf](https://people.umass.edu/~andrewlan/papers/21lak-warmstart.pdf)] **Nominated for Best Paper Award**
 
 ### Multiple Comparisons
@@ -91,7 +91,6 @@ Part of my research also focuses on methodological innovations in statistics and
 * __Karumbaiah, S.__, Labrum, M., Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. _International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2019_paper31.pdf)]
 * __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Temporally Rich Features Capture Variable Performance Associated with Elementary Students’ Lower Math Self-concept. Workshop on Online Learning and social-Emotional Learning at the _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/LAK19SEL_paper_3.pdf)] 
 * Crossley, S.A., __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Predicting Math Success in an Online Tutoring System Using Language Data and Click-stream Variables: A longitudinal analysis. _Conference on Language, Data and Knowledge (LDK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/OASIcs-LDK-2019-25.pdf)]
-
 
 ### Affect Detection
 * See [Affect Detection](#affect-detection)
