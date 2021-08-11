@@ -91,7 +91,11 @@ Research studies with education data often involve several variables related to 
 ## Predictive Modelling Applications
 ---
 ### Learning Games
+When a student is struggling in a learning game, a relevant and timely intervention could keep the student motivated and prevent frustration from leading the student to give up. However, it may be undesirable – even demotivating and harmful to
+learning – if the student is provided with scaffolding when they do not need it. As such, we developed a model to detect whether a student is likely to give up and quit a level in progress to identify opportunities to intervene meaningfully with supports aimed at improving student learning and engagement. 
 * __Karumbaiah, S.__, Baker, R.S., Shute, V. (2018) Predicting Quitting in Students Playing a Learning Game. _International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2018_paper_39.pdf)] \[[git](https://github.com/Shamya/Quit-Prediction-Physics-Playground.git)]  **Nominated for Best Paper Award**
+
+While predicting when a student is likely to quit is important, it is also crucial to understand _why_ the student is likely to quit in order to inform the design of supports that address students’ individual needs. Using automatically generated events in the interaction log as codes, we  study how the temporal interconnections between the events are different for students who quit and those who did not. Our analysis revealed a set of themes which point at some potential root causes for why students quit a game level unsolved.
 * __Karumbaiah, S.__, Baker, R.S., Barany, A., Shute, V. (2019) Using Epistemic Networks with Automated Codes to Understand Why Players Quit Levels in a Learning Game. _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICQE2019.pdf)]
 
 ### Math Identity and Success 
