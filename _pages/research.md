@@ -6,28 +6,12 @@ author_profile: true
 ---
 
 This page is organized by research area:
-1. [Bias, Fairness, and Equity](#bias-fairness-and-equity)
-2. [Affective Computing in Education](#affective-computing-in-education)
-3. [Predictive Modelling Applications: Games, Identity, Affect](#predictive-modelling-applications)
-4. [Methodological Improvements: Statistics, Machine Learning](#methodological-improvements)
+1. [Affective Computing in Education](#affective-computing-in-education)
+2. [Predictive Modelling Applications: Games, Identity, Affect](#predictive-modelling-applications)
+3. [Methodological Improvements: Statistics, Machine Learning](#methodological-improvements)
+4. [Bias, Fairness, and Equity](#bias-fairness-and-equity)
 
 For the full list of papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page. If the data for a paper is not made public yet, the access is restricted under IRB - reach out to discuss options.
-
----
-
-## Bias, Fairness, and Equity
----
-Adaptive systems in education need to ensure that their pedagogical decisions meet the needs of all students for an equitable outcome. Recent research highlights how these systems encode societal biases leading to discriminatory behaviors towards specific student subpopulations. However, the focus has mostly been on investigating bias in predictive modeling, particularly its downstream stages like model development and evaluation.
-
-### Upstream Bias
-My research on upstream bias hypothesizes that the upstream sources (i.e., theory, design, training data collection method) in the development of adaptive systems also contribute to the bias in these systems, highlighting the need for a nuanced approach to conducting fairness research. By empirically analyzing student data collected from various virtual learning environments, we investigated demographic disparities in three cases representative of the aspects that shape technological advancements in education: 1) differing implications of _technology design_ on student outcomes, 2) non-conformance of data to a widely-accepted _theoretical model_ of emotion, and 3) varying effectiveness of _methodological improvements_ in annotated data collection.
-* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2021) Context Matters: Differing Implications of Motivation and Help-Seeking in Educational Technology. _International Journal of Artificial Intelligence in Education (IJAIED)_. \[[pdf](../files/IJAIED_FATE_RMDemog.pdf)] \[[git](https://github.com/Shamya/RMDemogFairness)]
-* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J., Andres, J.M.A.L. (2021) A Re-Analysis and Synthesis of Data on Affect Dynamics in Learning. _IEEE Transactions on Affective Computing (IEEE TAC)_. \[[pdf](http://radix.www.upenn.edu/learninganalytics/ryanbaker/AffectDyanmics_IEEETAC_CameraReady.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)]
-* __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. \[[pdf](https://people.umass.edu/~andrewlan/papers/21lak-warmstart.pdf)] **Nominated for Best Paper Award**
-
-### Historical Bias
-Furthermore, I argue that the biases are rooted deeply in the fundamental principles of data and algorithms. By sociohistorically contextualizing three illustrative scenarios, we assert in this paper that historical injustices perpetuated by algorithmic systems in education are the result of the colonial epistemologies that continue to shape them. 
-* __Karumbaiah, S.__, Brooks, J. (2021) How Colonial Continuities Underlie Algorithmic Injustices in Education. _IEEE Research in Equity and Sustained Participation in Engineering, Computing, and Technology (IEEE RESPECT)_. \[[pdf](http://respect2021.stcbp.org/wp-content/uploads/2021/05/201_Position_Papers_01_paper_73.pdf)]
 
 ---
 
@@ -108,3 +92,21 @@ Active (machine) Learning (AL) methods have been explored in education to improv
 ### Multiple Comparisons
 Research studies with education data often involve several variables related to student learning activities making it necessary to run multiple statistical tests simultaneously. We investigated the validity of methods used to adjust for false discoveries, showing that a commonly used procedure (Benjamini-Hochberg) does not perform at the expected level. We discuss the appropriate usage of these procedures for two common scenarios.
 * Matayoshi, J., __Karumbaiah, S.__ (2021) Investigating the Validity of Methods Used to Adjust for Multiple Comparisons in Educational Data Mining. _International Conference on Educational Data Mining (EDM)_. \[[pdf](https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_10.pdf)] \[[git](https://github.com/jmatayoshi/multiple-comparisons)]
+
+---
+
+## Bias, Fairness, and Equity
+---
+Adaptive systems in education need to ensure that their pedagogical decisions meet the needs of all students for an equitable outcome. Recent research highlights how these systems encode societal biases leading to discriminatory behaviors towards specific student subpopulations. However, the focus has mostly been on investigating bias in predictive modeling, particularly its downstream stages like model development and evaluation.
+
+### Upstream Bias
+My research on upstream bias hypothesizes that the upstream sources (i.e., theory, design, training data collection method) in the development of adaptive systems also contribute to the bias in these systems, highlighting the need for a nuanced approach to conducting fairness research. By empirically analyzing student data collected from various virtual learning environments, we investigated demographic disparities in three cases representative of the aspects that shape technological advancements in education: 1) differing implications of _technology design_ on student outcomes, 2) non-conformance of data to a widely-accepted _theoretical model_ of emotion, and 3) varying effectiveness of _methodological improvements_ in annotated data collection.
+* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2021) Context Matters: Differing Implications of Motivation and Help-Seeking in Educational Technology. _International Journal of Artificial Intelligence in Education (IJAIED)_. \[[pdf](../files/IJAIED_FATE_RMDemog.pdf)] \[[git](https://github.com/Shamya/RMDemogFairness)]
+* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J., Andres, J.M.A.L. (2021) A Re-Analysis and Synthesis of Data on Affect Dynamics in Learning. _IEEE Transactions on Affective Computing (IEEE TAC)_. \[[pdf](http://radix.www.upenn.edu/learninganalytics/ryanbaker/AffectDyanmics_IEEETAC_CameraReady.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)]
+* __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. \[[pdf](https://people.umass.edu/~andrewlan/papers/21lak-warmstart.pdf)] **Nominated for Best Paper Award**
+
+### Historical Bias
+Furthermore, I argue that the biases are rooted deeply in the fundamental principles of data and algorithms. By sociohistorically contextualizing three illustrative scenarios, we assert in this paper that historical injustices perpetuated by algorithmic systems in education are the result of the colonial epistemologies that continue to shape them. 
+* __Karumbaiah, S.__, Brooks, J. (2021) How Colonial Continuities Underlie Algorithmic Injustices in Education. _IEEE Research in Equity and Sustained Participation in Engineering, Computing, and Technology (IEEE RESPECT)_. \[[pdf](http://respect2021.stcbp.org/wp-content/uploads/2021/05/201_Position_Papers_01_paper_73.pdf)]
+
+---
