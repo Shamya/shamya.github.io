@@ -79,10 +79,11 @@ with the L statistic suggested that an alternate approach may be warranted. We p
 * Matayoshi, J., __Karumbaiah, S__. (2021) Using Marginal Models to Adjust for Statistical Bias in the Analysis of State Transitions. _International Learning Analytics and Knowledge Conference (LAK)_. \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3448139.3448182?casa_token=cnlr7hWPvQsAAAAA:HyO8oSKneiTFL_egMyWSal8trStAOpxSKznFZfsuiOdg_BycI8uIS2bh22EqygzTjhK1z3yop75REg)] \[[git](https://github.com/jmatayoshi/sequence-analysis)]
 
 ### Active Machine Learning
-
+Active (machine) Learning (AL) methods have been explored in education to improve the data labeling efficiency. However, due to the complexity of educational constructs and data, AL has suffered from the cold-start problem where the model does not have access to sufficient data yet. We experimented the use of past data to overcome this issue and found that it could be effective based on the target student population.
 * __Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _International Learning Analytics and Knowledge Conference (ACM LAK)_. \[[pdf](https://people.umass.edu/~andrewlan/papers/21lak-warmstart.pdf)] **Nominated for Best Paper Award**
 
 ### Multiple Comparisons
+Research studies with educational data often involve several variables related to student learning activities making it necessary to run multiple statistical tests simultaneously. We investigated the validity of methods used to adjust for false discoveries, showing that a commonly used procedure (Benjamini-Hochberg) does not perform at the expected level. We discuss the appropriate usage of these procedures for two common scenarios.
 * Matayoshi, J., __Karumbaiah, S.__ (2021) Investigating the Validity of Methods Used to Adjust for Multiple Comparisons in Educational Data Mining. _International Conference on Educational Data Mining (EDM)_. \[[pdf](https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_10.pdf)] \[[git](https://github.com/jmatayoshi/multiple-comparisons)]
 
 ---
