@@ -8,8 +8,8 @@ author_profile: true
 This page is organized by research area:
 1. [Bias, Fairness, and Equity](#bias-fairness-and-equity)
 2. [Affective Computing in Education](#affective-computing-in-education)
-3. [Methodological Improvements: Statistics, Machine Learning](#methodological-improvements)
-4. [Predictive Modelling Applications: Games, Identity, Affect](#predictive-modelling-applications)
+3. [Predictive Modelling Applications: Games, Identity, Affect](#predictive-modelling-applications)
+4. [Methodological Improvements: Statistics, Machine Learning](#methodological-improvements)
 
 For the full list of papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page. If the data for a paper is not made public yet, the access is restricted under IRB - reach out to discuss options.
 
@@ -62,6 +62,29 @@ Besides automated detection, I also analyzed student affect data to better under
 
 ---
 
+## Predictive Modelling Applications
+---
+### Learning Games
+When a student is struggling in a learning game, a relevant and timely intervention could keep the student motivated and prevent frustration from leading the student to give up. However, it may be undesirable – even demotivating and harmful to learning – if the student is provided with scaffolding when they do not need it. As such, we developed a model to detect whether a student is likely to give up and quit a level in progress to identify opportunities to intervene meaningfully with supports aimed at improving student learning and engagement. 
+* __Karumbaiah, S.__, Baker, R.S., Shute, V. (2018) Predicting Quitting in Students Playing a Learning Game. _International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2018_paper_39.pdf)] \[[git](https://github.com/Shamya/Quit-Prediction-Physics-Playground.git)]  **Nominated for Best Paper Award**
+
+While predicting when a student is likely to quit is important, it is also crucial to understand _why_ the student is likely to quit in order to inform the design of supports that address students’ individual needs. Using automatically generated events in the interaction log as codes, we study how the temporal interconnections between the events are different for students who quit and those who did not. Our analysis revealed a set of themes that point at some potential root causes for why students quit a game level unsolved.
+* __Karumbaiah, S.__, Baker, R.S., Barany, A., Shute, V. (2019) Using Epistemic Networks with Automated Codes to Understand Why Players Quit Levels in a Learning Game. _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICQE2019.pdf)]
+
+### Math Identity and Success 
+Math identity — the degree to which one considers oneself a “math person” — has been researched to better understand what drives students to enter STEM fields. Using text mining, click-stream analysis, and temporal analysis, we developed models of students' math success and math identity. 
+* Crossley, S.A., __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2020) Predicting Math Identity through Language and Click-stream Patterns in a Blended Learning Mathematics Program for Elementary Students. _Journal of Learning Analytics (JLA)_. \[[pdf](https://files.eric.ed.gov/fulltext/EJ1251554.pdf)]
+* Crossley, S.A., __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Predicting Math Success in an Online Tutoring System Using Language Data and Click-stream Variables: A longitudinal analysis. _Conference on Language, Data and Knowledge (LDK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/OASIcs-LDK-2019-25.pdf)]
+* __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Temporally Rich Features Capture Variable Performance Associated with Elementary Students’ Lower Math Self-concept. Workshop on Online Learning and social-Emotional Learning at the _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/LAK19SEL_paper_3.pdf)] 
+
+More importantly, we demonstrated that the relationship between a predictor variable (e.g., number of hints used) and the outcome of interest (math self-concept, which is a measure of students’ perception of their own cognitive ability) varies significantly based on the context. Such demographic differences are likely to limit the generalizability of the models of math identity.  
+* __Karumbaiah, S.__, Labrum, M., Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. _International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2019_paper31.pdf)]
+
+### Affect Detection
+* See [Affect Detection](#affect-detection)
+
+---
+
 ## Methodological Improvements
 ---
 Part of my research also focuses on methodological innovations in statistics and machine learning. Most of this work is inspired by the challenges I encountered in using existing methods to conduct my primary research with education data. 
@@ -85,26 +108,3 @@ Active (machine) Learning (AL) methods have been explored in education to improv
 ### Multiple Comparisons
 Research studies with education data often involve several variables related to student learning activities making it necessary to run multiple statistical tests simultaneously. We investigated the validity of methods used to adjust for false discoveries, showing that a commonly used procedure (Benjamini-Hochberg) does not perform at the expected level. We discuss the appropriate usage of these procedures for two common scenarios.
 * Matayoshi, J., __Karumbaiah, S.__ (2021) Investigating the Validity of Methods Used to Adjust for Multiple Comparisons in Educational Data Mining. _International Conference on Educational Data Mining (EDM)_. \[[pdf](https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_10.pdf)] \[[git](https://github.com/jmatayoshi/multiple-comparisons)]
-
----
-
-## Predictive Modelling Applications
----
-### Learning Games
-When a student is struggling in a learning game, a relevant and timely intervention could keep the student motivated and prevent frustration from leading the student to give up. However, it may be undesirable – even demotivating and harmful to learning – if the student is provided with scaffolding when they do not need it. As such, we developed a model to detect whether a student is likely to give up and quit a level in progress to identify opportunities to intervene meaningfully with supports aimed at improving student learning and engagement. 
-* __Karumbaiah, S.__, Baker, R.S., Shute, V. (2018) Predicting Quitting in Students Playing a Learning Game. _International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2018_paper_39.pdf)] \[[git](https://github.com/Shamya/Quit-Prediction-Physics-Playground.git)]  **Nominated for Best Paper Award**
-
-While predicting when a student is likely to quit is important, it is also crucial to understand _why_ the student is likely to quit in order to inform the design of supports that address students’ individual needs. Using automatically generated events in the interaction log as codes, we study how the temporal interconnections between the events are different for students who quit and those who did not. Our analysis revealed a set of themes that point at some potential root causes for why students quit a game level unsolved.
-* __Karumbaiah, S.__, Baker, R.S., Barany, A., Shute, V. (2019) Using Epistemic Networks with Automated Codes to Understand Why Players Quit Levels in a Learning Game. _International Conference on Quantitative Ethnography (ICQE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICQE2019.pdf)]
-
-### Math Identity and Success 
-Math identity — the degree to which one considers oneself a “math person” — has been researched to better understand what drives students to enter STEM fields. Using text mining, click-stream analysis, and temporal analysis, we developed models of students' math success and math identity. 
-* Crossley, S.A., __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2020) Predicting Math Identity through Language and Click-stream Patterns in a Blended Learning Mathematics Program for Elementary Students. _Journal of Learning Analytics (JLA)_. \[[pdf](https://files.eric.ed.gov/fulltext/EJ1251554.pdf)]
-* Crossley, S.A., __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Predicting Math Success in an Online Tutoring System Using Language Data and Click-stream Variables: A longitudinal analysis. _Conference on Language, Data and Knowledge (LDK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/OASIcs-LDK-2019-25.pdf)]
-* __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Temporally Rich Features Capture Variable Performance Associated with Elementary Students’ Lower Math Self-concept. Workshop on Online Learning and social-Emotional Learning at the _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/LAK19SEL_paper_3.pdf)] 
-
-More importantly, we demonstrated that the relationship between a predictor variable (e.g., number of hints used) and the outcome of interest (math self-concept, which is a measure of students’ perception of their own cognitive ability) varies significantly based on the context. Such demographic differences are likely to limit the generalizability of the models of math identity.  
-* __Karumbaiah, S.__, Labrum, M., Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. _International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2019_paper31.pdf)]
-
-### Affect Detection
-* See [Affect Detection](#affect-detection)
