@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm a Ph.D. candidate at [UPenn](https://home.www.upenn.edu/) working in the [Penn Center for Learning Analytics](http://www.upenn.edu/learninganalytics/) with Dr. [Ryan Baker](http://www.upenn.edu/learninganalytics/ryanbaker/index.html). I research at the intersection of machine learning and learning sciences. I study ways to promote student engagement and learning in adaptive and artificially intelligent educational systems in a fair and equitable manner. My dissertation investigates bias in the upstream sources (theory, design, methods) that shape automated decision-making in adaptive learning systems. My [research](https://shamya.github.io/research/) involves:
-1. [Building models](https://shamya.github.io/research/#predictive-modelling-applications) of complex educational constructs such as affect, cognition, motivation, self-identity, help-seeking, and persistence.
+1. [Building models](https://shamya.github.io/research/#predictive-modelling-applications) to [understand](https://shamya.github.io/research/#affective-computing-in-education) complex educational constructs such as affect, cognition, motivation, self-identity, help-seeking, and persistence.
 2. [Methodological innovations](https://shamya.github.io/research/#methodological-improvements) in statistics and machine learning to overcome the challenges in applying current methods to education data.
 3. And most importantly, constructing scientific and critical approaches to [identifying biases](https://shamya.github.io/research/#bias-fairness-and-equity) and mitigating them for equitable student outcomes.
 
