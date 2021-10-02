@@ -1,0 +1,50 @@
+---
+permalink: /
+title: "Shamya Karumbaiah"
+excerpt: "Shamya Karumbaiah"
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
+---
+
+All papers are publicly avaiable at my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page.
+
+## Journal Papers 
+*	__Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J., Andres, J.M.A.L. (2021) A Re-Analysis and Synthesis of Data on Affect Dynamics in Learning. IEEE Transactions on Affective Computing (IEEE TAC).
+*	__Karumbaiah, S.__, Ocumpaugh, J., Baker, R.S. (2021) Context Matters: Differing Implications of Motivation and Help-Seeking in Educational Technology. International Journal of Artificial Intelligence in Education (IJAIED).
+*	Baker, R.S., Gašević, D., __Karumbaiah, S.__ (2021) Four paradigms in learning analytics: Why paradigm convergence matters. Computers and Education: Artificial Intelligence.
+*	Matayoshi, J., __Karumbaiah, S.__ (2020) Adjusting the L Statistic when Self-Transitions are Excluded in Affective Dynamics. Journal of Educational Data Mining (JEDM).
+*	Crossley, S.A., __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2020) Predicting Math Identity through Language and Click-stream Patterns in a Blended Learning Mathematics Program for Elementary Students. Journal of Learning Analytics (JLA). 
+
+## Conference Full Papers in Stringently Refereed Proceedings [avg acceptance rate ~22%]
+*	__Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? Proceedings of the 11th International Learning Analytics and Knowledge Conference (ACM LAK) **Nominated for Best Paper Award**
+*	Matayoshi, J., __Karumbaiah, S.__ (2021) Investigating the Validity of Methods Used to Adjust for Multiple Comparisons in Educational Data Mining. 13th International Conference on Educational Data Mining (EDM).
+*	__Karumbaiah, S.__, Brooks, J. (2021) How Colonial Continuities Underlie Algorithmic Injustices in Education. IEEE Research in Equity and Sustained Participation in Engineering, Computing, and Technology (IEEE RESPECT). 
+*	Ocumpaugh, J., Baker, R.S., __Karumbaiah, S.__, Crossley, S.A., Labrum, M., (2020) Affective Sequences and Student Actions Within Reasoning Mind. Proceedings of the 21st International Conference on Artificial Intelligence in Education (AIED).
+*	__Karumbaiah, S.__, Baker, R.S. (2020) Studying Affect Dynamics using Epistemic Networks. Proceedings of the 2nd International Conference on Quantitative Ethnography (ICQE). **Nominated for Best Paper Award**
+*	__Karumbaiah, S.__, Baker, R.S., Barany, A., Shute, V. (2019) Using Epistemic Networks with Automated Codes to Understand Why Players Quit Levels in a Learning Game. Proceedings of the 1st International Conference on Quantitative Ethnography (ICQE).
+*	__Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2019) The Case of Self-Transitions in Affective Dynamics. Proceedings of the 20th International Conference on Artificial Intelligence in Education (AIED).
+*	__Karumbaiah, S.__, Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. Proceedings of the 11th International Conference on Educational Data Mining (EDM).
+*	Crossley, S.A., __Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Predicting Math Success in an Online Tutoring System Using Language Data and Click-stream Variables: A longitudinal analysis. Proceedings of the 2nd Conference on Language, Data and Knowledge (LDK).
+*	Georgila, K., Core, M. G., Nye, B., __Karumbaiah, S.__, Auerbach, D., Ram, M. (2019) Using Reinforcement Learning to Optimize the Policies of an Intelligent Tutoring System for Interpersonal Skills Training. Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems (AAMS).
+*	Andres, J.M.A.L., Ocumpaugh, J., Baker, R., Slater, S., Paquette, L., __Karumbaiah, S.__, Jiang, Y., Bosch, N., Munshi, A., Moore, A., Biswas, G. (2019) Affect Sequences and Learning in Betty’s Brain. Proceedings of the 9th International Conference on Learning Analytics and Knowledge (LAK).
+*	__Karumbaiah, S.__, Baker, R.S., Shute, V. (2018) Predicting Quitting in Students Playing a Learning Game. Proceedings of the 11th International Conference on Educational Data Mining (EDM). **Nominated for Best Paper Award**
+*	Nye, B. D., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2018) Engaging with the Scenario: Affect and Facial Patterns from a Scenario-Based Intelligent Tutoring System. Proceedings of the 19th International Conference on Artificial Intelligence in Education (AIED). 
+*	__Karumbaiah, S.__, Andres, J.M.A.L., Botelho, A.F., Baker, R.S., Ocumpaugh, J. (2018) The Implications of a Subtle Difference in the Calculation of Affect Dynamics. Proceedings of the 26th International Conference on Computers in Education (ICCE). **Nominated for Best Paper Award**
+*	__Karumbaiah, S.__, Lizarralde, R., Allessio, D., Woolf, B.P., Arroyo, I., Wixon, N. (2017) Addressing Student Behavior and Affect with Empathy and Growth Mindset. Proceedings of the 10th International Conference on Educational Data Mining (EDM).
+
+## Peer-Reviewed Conference Short Papers and Poster Papers 
+*	Matayoshi, J., __Karumbaiah, S.__ (2021) Using Marginal Models to Adjust for Statistical Bias in the Analysis of State Transitions. Proceedings of the 11th International Learning Analytics and Knowledge Conference (LAK).
+*	Tywoniw, R., Crossley, S.A., Ocumpaugh, J., __Karumbaiah, S.__, Baker R. (2020) Relationships Between Math Performance and Human Judgments of Motivational Constructs in an Online Math Tutoring System. Proceedings of the 21st International Conference on Artificial Intelligence in Education (AIED).
+*	Lan, A., Botelho, A., __Karumbaiah, S.__, Baker, R.S., Heffernan, N. (2020) Accurate and Interpretable Sensor-free Affect Detectors via Monotonic Neural Networks. Proceedings of the 10th International Conference on Learning Analytics and Knowledge (LAK).
+*	__Karumbaiah, S.__, Dabholkar, S., Shim, J., Yoon, S., Chandy, B., Ye, A. (2019) Using Participatory Design to Facilitate In-service Teacher Learning in Computational Thinking. Proceedings of the 13th International Conference on Computer Supported Collaborative Learning (CSCL).
+*	__Karumbaiah, S.__, Rahimi, S., Baker, R.S., Shute, V., D’Mello, S.K. (2018) Is Student Frustration in Learning Games More Associated with Game Mechanics or Conceptual Understanding? Proceedings of the 13th International Conference of the Learning Sciences (ICLS).
+*	Nye, B., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2017) Analyzing Learner Affect in a Scenario-Based Intelligent Tutoring System. Proceedings of the 18th International Conference on Artificial Intelligence in Education (AIED). 
+
+## Peer-Reviewed Workshop Papers/Presentations 
+*	__Karumbaiah, S.__, Brooks, J. (2021) Decoloniality as a Lens of Ethical Foresight for Learning Analytics. Proceedings of the Workshop on Towards a Philosophical Framework for Learning Analytics at the 11th International Learning Analytics and Knowledge Conference (LAK). 
+*	__Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Temporally Rich Features Capture Variable Performance Associated with Elementary Students’ Lower Math Self-concept. Proceedings of the Workshop on Online Learning and social-Emotional Learning at the 9th International Conference on Learning Analytics and Knowledge (LAK). 
+*	__Karumbaiah, S.__, Wright, R. T., Durcikova, A., & Jensen, M. L. (2016) Phishing training: A Preliminary Look at the Effects of Different Types of Training. Proceedings of the 11th Pre-ICIS Workshop on Information Security and Privacy (WISP). 
+
+---
