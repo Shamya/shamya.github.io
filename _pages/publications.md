@@ -18,7 +18,8 @@ All papers are publicly avaiable at my [Google Scholar](https://scholar.google.c
 
 ---
 
-## Conference Full Papers in Stringently Refereed Proceedings [avg acceptance rate ~22%]
+## Conference Full Papers in Stringently Refereed Proceedings 
+(avg acceptance rate ~22%)
 *	__Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _11th International Learning Analytics and Knowledge Conference (ACM LAK)_ **Nominated for Best Paper Award**
 *	Matayoshi, J., __Karumbaiah, S.__ (2021) Investigating the Validity of Methods Used to Adjust for Multiple Comparisons in Educational Data Mining. _13th International Conference on Educational Data Mining (EDM)._
 *	__Karumbaiah, S.__, Brooks, J. (2021) How Colonial Continuities Underlie Algorithmic Injustices in Education. _IEEE Research in Equity and Sustained Participation in Engineering, Computing, and Technology (IEEE RESPECT)._ 
