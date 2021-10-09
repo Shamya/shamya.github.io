@@ -11,7 +11,7 @@ This page is organized by research area:
 3. [Methodological Improvements: Statistics, Machine Learning](#methodological-improvements)
 4. [Affective Computing in Education](#affective-computing-in-education)
 
-For the full list of papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page. If the data for a paper is not made public yet, the access is restricted under IRB - reach out to discuss options.
+For the full list of papers, please visit [Publications](https://shamya.github.io/publications/). If the data for a paper is not made public yet, the access is restricted under IRB - reach out to discuss options.
 
 ---
 
