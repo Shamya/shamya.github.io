@@ -7,9 +7,9 @@ author_profile: true
 
 This page is organized by research area:
 1. [Bias, Fairness, and Equity](#bias-fairness-and-equity)
-2. [Affective Computing in Education](#affective-computing-in-education)
-3. [Predictive Modelling Applications: Games, Identity, Affect](#predictive-modelling-applications)
-4. [Methodological Improvements: Statistics, Machine Learning](#methodological-improvements)
+2. [Predictive Modelling Applications: Games, Identity, Affect](#predictive-modelling-applications)
+3. [Methodological Improvements: Statistics, Machine Learning](#methodological-improvements)
+4. [Affective Computing in Education](#affective-computing-in-education)
 
 For the full list of papers, please visit my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page. If the data for a paper is not made public yet, the access is restricted under IRB - reach out to discuss options.
 
@@ -36,37 +36,6 @@ For a summary of these three studies, see poster [here](https://drive.google.com
 ### Historical Bias
 I argue that some biases are also rooted deeply in the fundamental principles of data and algorithms. By sociohistorically contextualizing three illustrative scenarios, we assert in this paper that historical injustices perpetuated by algorithmic systems in education are the result of the colonial epistemologies that continue to shape them. 
 * __Karumbaiah, S.__, Brooks, J. (2021) How Colonial Continuities Underlie Algorithmic Injustices in Education. _IEEE Research in Equity and Sustained Participation in Engineering, Computing, and Technology (IEEE RESPECT)_. \[[pdf](http://respect2021.stcbp.org/wp-content/uploads/2021/05/201_Position_Papers_01_paper_73.pdf)]
-
----
-
-## Affective Computing in Education
----
-### Affect Dynamics
-Student affect in adaptive systems has been shown to correlate with a range of important educational constructs. Affect dynamics, the study of how affect develops and manifests over time, has become a popular area of research in affective computing for learning. Few empirical studies, however, have matched the predictions of the most commonly-cited theoretical model of affect dynamics. We first analyzed the prior empirical studies, elaborating both their findings and the contextual and methodological differences between these studies. We also addressed some methodological concerns that have not been previously addressed in the literature, discussing how various edge cases should be treated.
-* __Karumbaiah, S.__, Andres, J.M.A.L., Botelho, A.F., Baker, R.S., Ocumpaugh, J. (2018) The Implications of a Subtle Difference in the Calculation of Affect Dynamics. _International Conference on Computers in Education (ICCE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/i_paper_36.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] **Nominated for Best Paper Award**
-
-Next, we presented mathematical evidence that several past studies applied the transition metric incorrectly - leading to invalid conclusions of statistical significance - and provided a corrected method.
-* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2019) The Case of Self-Transitions in Affective Dynamics. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/AIED2019_paper_55.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] 
-
-Using this corrected analysis method, we reanalyzed ten past affect datasets collected in diverse contexts and synthesized the results, determining that the findings do not match the most popular theoretical model of affect dynamics. Instead, our results highlights the need to focus on cultural factors in future affect dynamics research.
-* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J., Andres, J.M.A.L. (2021) A Re-Analysis and Synthesis of Data on Affect Dynamics in Learning. _IEEE Transactions on Affective Computing (IEEE TAC)_. \[[pdf](http://radix.www.upenn.edu/learninganalytics/ryanbaker/AffectDyanmics_IEEETAC_CameraReady.pdf)]
-
-For my work on methodological improvements in affect dynamics research, see: 
-* [Transition Analysis](#transition-and-sequence-analysis) and [Multiple Comparisons](#multiple-comparisons).
-
-### Affect Analysis
-I analyzed student affect data to better understand its role in student learning and experience, including a randomized controlled study on an affective intervention and a study on the relationship between affect and game design.
-* __Karumbaiah, S.__, Lizarralde, R., Allessio, D., Woolf, B.P., Arroyo, I., Wixon, N. (2017) Addressing Student Behavior and Affect with Empathy and Growth Mindset. _International Conference on Educational Data Mining (EDM)_. \[[pdf](https://files.eric.ed.gov/fulltext/ED596572.pdf)] \[[git](https://github.com/rezecib/MathspringDataProcessing.git)]
-* Ocumpaugh, J., Baker, R.S., __Karumbaiah, S.__, Crossley, S.A., Labrum, M., (2020) Affective Sequences and Student Actions Within Reasoning Mind. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](https://www.researchgate.net/publication/342676738_Affective_Sequences_and_Student_Actions_Within_Reasoning_Mind)]
-* __Karumbaiah, S.__, Rahimi, S., Baker, R.S., Shute, V., D’Mello, S.K. (2018) Is Student Frustration in Learning Games More Associated with Game Mechanics or Conceptual Understanding? _International Conference of the Learning Sciences (ICLS)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICLS-Shamya.pdf)]
-
-### Affect Detection 
-I designed and developed algorithms for automated affect detection in diverse learning systems using physiological sensors and interaction log data. I also developed the server-side software for an app that identifies and alerts field interviewers to critical affective moments during a student's learning with an artificially intelligent learning system. 
-* Nye, B. D., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2018) Engaging with the Scenario: Affect and Facial Patterns from a Scenario-Based Intelligent Tutoring System. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://people.ict.usc.edu/~kgeorgila/publications/nye_aied18.pdf)] \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)]
-* Nye, B., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2017) Analyzing Learner Affect in a Scenario-Based Intelligent Tutoring System. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://people.ict.usc.edu/~kgeorgila/publications/nye_aied17.pdf)] \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)]
-* Andres, J.M.A.L., Ocumpaugh, J., Baker, R., Slater, S., Paquette, L., __Karumbaiah, S.__, Jiang, Y.,
-Bosch, N., Munshi, A., Moore, A., Biswas, G. (2019) Affect Sequences and Learning in Betty’s Brain. _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3303772.3303807)]
-* Lan, A., Botelho, A., __Karumbaiah, S.__, Baker, R.S., Heffernan, N. (2020) Accurate and Interpretable Sensor-free Affect Detectors via Monotonic Neural Networks. _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](https://par.nsf.gov/servlets/purl/10191713)]
 
 ---
 
@@ -116,5 +85,36 @@ Active (machine) Learning (AL) methods have been explored in education to improv
 ### Multiple Comparisons
 Research studies with education data often involve several variables related to student learning activities making it necessary to run multiple statistical tests simultaneously. We investigated the validity of methods used to adjust for false discoveries, showing that a frequently used procedure (Benjamini-Hochberg) may not be appropriate for two common scenarios in educational data mining, and recommend an alternate procedure (Benjamini-Yekutieli).
 * Matayoshi, J., __Karumbaiah, S.__ (2021) Investigating the Validity of Methods Used to Adjust for Multiple Comparisons in Educational Data Mining. _International Conference on Educational Data Mining (EDM)_. \[[pdf](https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_10.pdf)] \[[git](https://github.com/jmatayoshi/multiple-comparisons)]
+
+---
+
+## Affective Computing in Education
+---
+### Affect Dynamics
+Student affect in adaptive systems has been shown to correlate with a range of important educational constructs. Affect dynamics, the study of how affect develops and manifests over time, has become a popular area of research in affective computing for learning. Few empirical studies, however, have matched the predictions of the most commonly-cited theoretical model of affect dynamics. We first analyzed the prior empirical studies, elaborating both their findings and the contextual and methodological differences between these studies. We also addressed some methodological concerns that have not been previously addressed in the literature, discussing how various edge cases should be treated.
+* __Karumbaiah, S.__, Andres, J.M.A.L., Botelho, A.F., Baker, R.S., Ocumpaugh, J. (2018) The Implications of a Subtle Difference in the Calculation of Affect Dynamics. _International Conference on Computers in Education (ICCE)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/i_paper_36.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] **Nominated for Best Paper Award**
+
+Next, we presented mathematical evidence that several past studies applied the transition metric incorrectly - leading to invalid conclusions of statistical significance - and provided a corrected method.
+* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J. (2019) The Case of Self-Transitions in Affective Dynamics. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/AIED2019_paper_55.pdf)] \[[git](https://github.com/Shamya/L-Statistic-for-Transition-Likelihood.git)] 
+
+Using this corrected analysis method, we reanalyzed ten past affect datasets collected in diverse contexts and synthesized the results, determining that the findings do not match the most popular theoretical model of affect dynamics. Instead, our results highlights the need to focus on cultural factors in future affect dynamics research.
+* __Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J., Andres, J.M.A.L. (2021) A Re-Analysis and Synthesis of Data on Affect Dynamics in Learning. _IEEE Transactions on Affective Computing (IEEE TAC)_. \[[pdf](http://radix.www.upenn.edu/learninganalytics/ryanbaker/AffectDyanmics_IEEETAC_CameraReady.pdf)]
+
+For my work on methodological improvements in affect dynamics research, see: 
+* [Transition Analysis](#transition-and-sequence-analysis) and [Multiple Comparisons](#multiple-comparisons).
+
+### Affect Analysis
+I analyzed student affect data to better understand its role in student learning and experience, including a randomized controlled study on an affective intervention and a study on the relationship between affect and game design.
+* __Karumbaiah, S.__, Lizarralde, R., Allessio, D., Woolf, B.P., Arroyo, I., Wixon, N. (2017) Addressing Student Behavior and Affect with Empathy and Growth Mindset. _International Conference on Educational Data Mining (EDM)_. \[[pdf](https://files.eric.ed.gov/fulltext/ED596572.pdf)] \[[git](https://github.com/rezecib/MathspringDataProcessing.git)]
+* Ocumpaugh, J., Baker, R.S., __Karumbaiah, S.__, Crossley, S.A., Labrum, M., (2020) Affective Sequences and Student Actions Within Reasoning Mind. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](https://www.researchgate.net/publication/342676738_Affective_Sequences_and_Student_Actions_Within_Reasoning_Mind)]
+* __Karumbaiah, S.__, Rahimi, S., Baker, R.S., Shute, V., D’Mello, S.K. (2018) Is Student Frustration in Learning Games More Associated with Game Mechanics or Conceptual Understanding? _International Conference of the Learning Sciences (ICLS)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/ICLS-Shamya.pdf)]
+
+### Affect Detection 
+I designed and developed algorithms for automated affect detection in diverse learning systems using physiological sensors and interaction log data. I also developed the server-side software for an app that identifies and alerts field interviewers to critical affective moments during a student's learning with an artificially intelligent learning system. 
+* Nye, B. D., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2018) Engaging with the Scenario: Affect and Facial Patterns from a Scenario-Based Intelligent Tutoring System. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://people.ict.usc.edu/~kgeorgila/publications/nye_aied18.pdf)] \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)]
+* Nye, B., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2017) Analyzing Learner Affect in a Scenario-Based Intelligent Tutoring System. _International Conference on Artificial Intelligence in Education (AIED)_. \[[pdf](http://people.ict.usc.edu/~kgeorgila/publications/nye_aied17.pdf)] \[[git](https://github.com/benjamid/SuperLearningAnalytics.git)]
+* Andres, J.M.A.L., Ocumpaugh, J., Baker, R., Slater, S., Paquette, L., __Karumbaiah, S.__, Jiang, Y.,
+Bosch, N., Munshi, A., Moore, A., Biswas, G. (2019) Affect Sequences and Learning in Betty’s Brain. _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3303772.3303807)]
+* Lan, A., Botelho, A., __Karumbaiah, S.__, Baker, R.S., Heffernan, N. (2020) Accurate and Interpretable Sensor-free Affect Detectors via Monotonic Neural Networks. _International Conference on Learning Analytics and Knowledge (LAK)_. \[[pdf](https://par.nsf.gov/servlets/purl/10191713)]
 
 ---
