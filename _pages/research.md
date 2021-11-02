@@ -57,7 +57,7 @@ Math identity — the degree to which one considers oneself a “math person” 
 More importantly, we demonstrated that the relationship between a predictor variable (e.g., number of hints used) and the outcome of interest (math self-concept, which is an affective measure of students’ perception of their own cognitive ability) varies significantly based on the context. Such demographic differences are likely to limit the generalizability of the models of math identity.  
 * __Karumbaiah, S.__, Ocumpaugh, J., Baker, R.S. (2019) The Influence of School Demographics on the Relationship Between Students’ Help-Seeking Behavior and Performance and Motivational Measures. _International Conference on Educational Data Mining (EDM)_. \[[pdf](http://www.upenn.edu/learninganalytics/ryanbaker/EDM2019_paper31.pdf)]
 
-### Affect Detection
+### Affect
 * See [Affect Detection](#affect-detection)
 
 ---
