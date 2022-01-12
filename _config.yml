@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Shamya Karumbaiah"
-description              : &description "Doctoral Candidate at University of Pennsylvania"
+description              : &description "Postdoc Fellow at CMU HCII"
 url                      : https://shamya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shamya.github.io"
@@ -83,12 +83,12 @@ author:
   name             : "Shamya Karumbaiah"
   avatar           : "shamya.png"
   bio              : "Doctoral Candidate at University of Pennsylvania"
-  location         : Philadelphia, PA, USA
+  location         : Pittsburgh, PA, USA
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5w4I9VMAAAAJ"
   twitter          : "s_karumbaiah"
-  email            : shamya [at] upenn [dot] edu
+  email            : shamya16 [at] gmail [dot] com
   researchgate     : "https://www.researchgate.net/profile/Shamya_Karumbaiah"
   uri              :
   bitbucket        :
