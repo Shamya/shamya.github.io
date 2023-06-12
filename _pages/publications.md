@@ -21,7 +21,7 @@ All papers are publicly available at my [Google Scholar](https://scholar.google.
 
 ## Conference Full Papers in Stringently Refereed Proceedings 
 (avg acceptance rate ~22%)
-*	__Karumbaiah, S.__, Borchers, B., Shou, T., Falhs, AC., Liu, P., Nagashima, T., Rummel, N., Aleven, V. (2023) A Spatiotemporal Analysis of Teacher Practices in Supporting Student Learning and Engagement in an AI-enabled Classroom. _24th International Conference on Artificial Intelligence in Education (AIED)_.
+*	__Karumbaiah, S.__, Borchers, C., Shou, T., Falhs, AC., Liu, P., Nagashima, T., Rummel, N., Aleven, V. (2023) A Spatiotemporal Analysis of Teacher Practices in Supporting Student Learning and Engagement in an AI-enabled Classroom. _24th International Conference on Artificial Intelligence in Education (AIED)_.
 * __Karumbaiah, S.__, Baker, R.S., Tao, Y., Liu., Z. (2022) How does Students’ Affect in Virtual Learning Relate to Their Outcomes? A Systematic Review Challenging the Positive-Negative Dichotomy. _12th International Learning Analytics and Knowledge Conference (ACM LAK)_.  
 *	__Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _11th International Learning Analytics and Knowledge Conference (ACM LAK)_ **Nominated for Best Paper Award**
 *	Matayoshi, J., __Karumbaiah, S.__ (2021) Investigating the Validity of Methods Used to Adjust for Multiple Comparisons in Educational Data Mining. _13th International Conference on Educational Data Mining (EDM)._
@@ -42,8 +42,8 @@ All papers are publicly available at my [Google Scholar](https://scholar.google.
 ---
 
 ## Peer-Reviewed Conference Short Papers and Poster Papers 
-*	__Karumbaiah, S.__, Borchers, B., Falhs, AC., Holstein, K., Rummel, N., Aleven, V. (2023). Teacher Noticing and Student Learning in Human-AI Partnered Classrooms: A Multimodal Analysis. _18th International Conference of the Learning Sciences (ICLS)._
-*	Shou, T., Borchers, B., __Karumbaiah, S.__, Aleven, V. (2023) Optimizing Parameters for Accurate Position Data Mining in Diverse Classrooms Layouts. _15th International Conference on Educational Data Mining (EDM)._
+*	__Karumbaiah, S.__, Borchers, C., Falhs, AC., Holstein, K., Rummel, N., Aleven, V. (2023). Teacher Noticing and Student Learning in Human-AI Partnered Classrooms: A Multimodal Analysis. _18th International Conference of the Learning Sciences (ICLS)._
+*	Shou, T., Borchers, C., __Karumbaiah, S.__, Aleven, V. (2023) Optimizing Parameters for Accurate Position Data Mining in Diverse Classrooms Layouts. _15th International Conference on Educational Data Mining (EDM)._
 *	__Karumbaiah, S.__, Zhang, J., Baker, R. S., Scruggs, R., Cade, W., Clements, M., Lin, S. (2022). Using Neural Network-Based Knowledge Tracing for a Learning System with Unreliable Skill Tags. _14th International Conference on Educational Data Mining (EDM)._
 *	Matayoshi, J., __Karumbaiah, S.__ (2021) Using Marginal Models to Adjust for Statistical Bias in the Analysis of State Transitions. _11th International Learning Analytics and Knowledge Conference (LAK)_.
 *	Tywoniw, R., Crossley, S.A., Ocumpaugh, J., __Karumbaiah, S.__, Baker R. (2020) Relationships Between Math Performance and Human Judgments of Motivational Constructs in an Online Math Tutoring System. _21st International Conference on Artificial Intelligence in Education (AIED)_.
