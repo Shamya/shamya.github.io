@@ -10,6 +10,7 @@ All papers are publicly available at my [Google Scholar](https://scholar.google.
 ---
 
 ## Journal Papers 
+*	Matayoshi, J., __Karumbaiah, S.__ (2022) Analyzing Transitions in Sequential Data with Marginal Models. _Journal of Educational Data Mining (JEDM)_.
 *	__Karumbaiah, S.__, Baker, R.S., Ocumpaugh, J., Andres, J.M.A.L. (2021) A Re-Analysis and Synthesis of Data on Affect Dynamics in Learning. _IEEE Transactions on Affective Computing (IEEE TAC)_.
 *	__Karumbaiah, S.__, Ocumpaugh, J., Baker, R.S. (2021) Context Matters: Differing Implications of Motivation and Help-Seeking in Educational Technology. _International Journal of Artificial Intelligence in Education (IJAIED)_.
 *	Baker, R.S., Gašević, D., __Karumbaiah, S.__ (2021) Four paradigms in learning analytics: Why paradigm convergence matters. _Computers and Education: Artificial Intelligence_.
@@ -20,6 +21,8 @@ All papers are publicly available at my [Google Scholar](https://scholar.google.
 
 ## Conference Full Papers in Stringently Refereed Proceedings 
 (avg acceptance rate ~22%)
+*	__Karumbaiah, S.__, Borchers, B., Shou, T., Falhs, AC., Liu, P., Nagashima, T., Rummel, N., Aleven, V. (2023) A Spatiotemporal Analysis of Teacher Practices in Supporting Student Learning and Engagement in an AI-enabled Classroom. _24th International Conference on Artificial Intelligence in Education (AIED)_.
+* __Karumbaiah, S.__, Baker, R.S., Tao, Y., Liu., Z. (2022) How does Students’ Affect in Virtual Learning Relate to Their Outcomes? A Systematic Review Challenging the Positive-Negative Dichotomy. _12th International Learning Analytics and Knowledge Conference (ACM LAK)_.  
 *	__Karumbaiah, S.__, Lan, A., Nagpal, S., Baker, R.S., Botelho, A., Heffernan, N. (2021) Using Past Data to Warm Start Active Machine Learning: Does Context Matter? _11th International Learning Analytics and Knowledge Conference (ACM LAK)_ **Nominated for Best Paper Award**
 *	Matayoshi, J., __Karumbaiah, S.__ (2021) Investigating the Validity of Methods Used to Adjust for Multiple Comparisons in Educational Data Mining. _13th International Conference on Educational Data Mining (EDM)._
 *	__Karumbaiah, S.__, Brooks, J. (2021) How Colonial Continuities Underlie Algorithmic Injustices in Education. _IEEE Research in Equity and Sustained Participation in Engineering, Computing, and Technology (IEEE RESPECT)._ 
@@ -39,18 +42,22 @@ All papers are publicly available at my [Google Scholar](https://scholar.google.
 ---
 
 ## Peer-Reviewed Conference Short Papers and Poster Papers 
+*	__Karumbaiah, S.__, Borchers, B., Falhs, AC., Holstein, K., Rummel, N., Aleven, V. (2023). Teacher Noticing and Student Learning in Human-AI Partnered Classrooms: A Multimodal Analysis. _18th International Conference of the Learning Sciences (ICLS)._
+*	Shou, T., Borchers, B., __Karumbaiah, S.__, Aleven, V. (2023) Optimizing Parameters for Accurate Position Data Mining in Diverse Classrooms Layouts. _15th International Conference on Educational Data Mining (EDM)._
+*	__Karumbaiah, S.__, Zhang, J., Baker, R. S., Scruggs, R., Cade, W., Clements, M., Lin, S. (2022). Using Neural Network-Based Knowledge Tracing for a Learning System with Unreliable Skill Tags. _14th International Conference on Educational Data Mining (EDM)._
 *	Matayoshi, J., __Karumbaiah, S.__ (2021) Using Marginal Models to Adjust for Statistical Bias in the Analysis of State Transitions. _11th International Learning Analytics and Knowledge Conference (LAK)_.
 *	Tywoniw, R., Crossley, S.A., Ocumpaugh, J., __Karumbaiah, S.__, Baker R. (2020) Relationships Between Math Performance and Human Judgments of Motivational Constructs in an Online Math Tutoring System. _21st International Conference on Artificial Intelligence in Education (AIED)_.
 *	Lan, A., Botelho, A., __Karumbaiah, S.__, Baker, R.S., Heffernan, N. (2020) Accurate and Interpretable Sensor-free Affect Detectors via Monotonic Neural Networks. _10th International Conference on Learning Analytics and Knowledge (LAK)_.
-*	__Karumbaiah, S.__, Dabholkar, S., Shim, J., Yoon, S., Chandy, B., Ye, A. (2019) Using Participatory Design to Facilitate In-service Teacher Learning in Computational Thinking. _13th International Conference on Computer Supported Collaborative Learning (CSCL)_.
-*	__Karumbaiah, S.__, Rahimi, S., Baker, R.S., Shute, V., D’Mello, S.K. (2018) Is Student Frustration in Learning Games More Associated with Game Mechanics or Conceptual Understanding? _13th International Conference of the Learning Sciences (ICLS)_.
-*	Nye, B., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2017) Analyzing Learner Affect in a Scenario-Based Intelligent Tutoring System. _18th International Conference on Artificial Intelligence in Education (AIED)_. 
 
 ---
 
-## Peer-Reviewed Workshop Papers/Presentations 
+## Peer-Reviewed Posters and Workshop Papers/Presentations 
 *	__Karumbaiah, S.__, Brooks, J. (2021) Decoloniality as a Lens of Ethical Foresight for Learning Analytics. _Workshop on Towards a Philosophical Framework for Learning Analytics at the 11th International Learning Analytics and Knowledge Conference (LAK)_. 
+* Hutt, S., __Karumbaiah, S.__, Ocumpaugh, J. (2021) Optimizing philosophies for predictive models in learning analytics. _Workshop on Towards a Philosophical Framework for Learning Analytics at the 11th International Learning Analytics and Knowledge Conference (LAK)._
 *	__Karumbaiah, S.__, Ocumpaugh, J., Labrum, M., Baker, R.S. (2019) Temporally Rich Features Capture Variable Performance Associated with Elementary Students’ Lower Math Self-concept. _Workshop on Online Learning and social-Emotional Learning at the 9th International Conference on Learning Analytics and Knowledge (LAK)_. 
+*	*	__Karumbaiah, S.__, Dabholkar, S., Shim, J., Yoon, S., Chandy, B., Ye, A. (2019) Using Participatory Design to Facilitate In-service Teacher Learning in Computational Thinking. _13th International Conference on Computer Supported Collaborative Learning (CSCL)_.
+*	__Karumbaiah, S.__, Rahimi, S., Baker, R.S., Shute, V., D’Mello, S.K. (2018) Is Student Frustration in Learning Games More Associated with Game Mechanics or Conceptual Understanding? _13th International Conference of the Learning Sciences (ICLS)_.
+*	Nye, B., __Karumbaiah, S.__, Tokel, S. T., Core, M. G., Stratou, G., Auerbach, D., & Georgila, K. (2017) Analyzing Learner Affect in a Scenario-Based Intelligent Tutoring System. _18th International Conference on Artificial Intelligence in Education (AIED)_. 
 *	__Karumbaiah, S.__, Wright, R. T., Durcikova, A., & Jensen, M. L. (2016) Phishing training: A Preliminary Look at the Effects of Different Types of Training. _11th Pre-ICIS Workshop on Information Security and Privacy (WISP)_. 
 
 ---
