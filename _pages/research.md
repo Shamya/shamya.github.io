@@ -4,6 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+For research after 2022, please visit [TRAIL Lab](https://trail.wcer.wisc.edu/people/shamya-karumbaiah). 
 
 This page is organized by research area:
 1. [Bias, Fairness, and Equity](#bias-fairness-and-equity)
