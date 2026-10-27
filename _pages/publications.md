@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-For research after 2022, please visit [TRAIL Lab](https://trail.wcer.wisc.edu/people/shamya-karumbaiah). 
+For publications after 2022, please visit [TRAIL Lab](https://trail.wcer.wisc.edu/publications). 
 
 All papers are publicly available at my [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ) page.
 
