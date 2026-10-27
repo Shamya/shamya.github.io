@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+This is my old personal website (not updated since 2022). For recent work, please visit [TRAIL Lab](https://trail.wcer.wisc.edu/people/shamya-karumbaiah). 
 
 I am an assistant professor in [Educational Psychology](https://edpsych.education.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/). Previously, I was a postdoctoral fellow at [Carnegie Mellon University](https://www.cmu.edu/) in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) working with Dr. [Vincent Aleven](http://www.cs.cmu.edu/~aleven/) and Dr. [Nikol Rummel](https://ife.rub.de/institut/personen/node/230). I earned my PhD from the [University of Pennsylvania](https://home.www.upenn.edu/) in 2021 working as a research fellow in the [Penn Center for Learning Analytics](http://www.upenn.edu/learninganalytics/) with Dr. [Ryan Baker](http://www.upenn.edu/learninganalytics/ryanbaker/index.html).
 
